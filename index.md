@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: Namaste!
     content: >
-      **Herzlich willkommen,**  
+      **Herzlich willkommen!**  
         
         
      Herzlich Willkommen!
