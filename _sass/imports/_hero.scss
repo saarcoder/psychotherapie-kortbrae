@@ -1,0 +1,61 @@
+.hero {
+  margin-bottom: 1.33333em;
+  padding-bottom: 1em;
+  margin-top: 2.5rem;
+
+  &__title {
+    font-size: 1.8em;
+    color: #74c86c;
+  }
+
+  &__body {
+    font-size: 1.11111em;
+    line-height: 1.5;
+  }
+
+  &__body p {
+    word-wrap: break-word;
+    text-align: justify;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+  }
+
+  &__body,
+  &__actions {
+    &:not(:first-child) {
+      margin-top: 1.75em;
+    }
+  }
+
+  &__actions {
+    font-size: 1.11111em;
+
+    .button {
+      font-size: inherit;
+    }
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  .hero {
+    margin-bottom: 1em;icon
+    &__body {
+      font-size: .9em;
+    }
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .hero {
+    &__title {
+      font-size: 1.2em;
+    }
+  }
+}
+
+@media only screen and (max-width: 767px) {
+    .hero .container--lg {
+        margin: 0;
+    }
+}

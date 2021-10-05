@@ -1,0 +1,52 @@
+.site {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 1rem;  
+
+}
+
+.site-content {
+  box-sizing: border-box;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  width: 100%;
+  padding: 0 1.5rem 4rem 1.5rem;
+}
+
+  .container--lg {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+
+#main-wrap {
+  margin: 0 auto;
+  max-width: 998px;
+  margin-bottom: 3rem;
+}
+
+@media only screen and (min-width: 767px) {
+  .container {
+    padding-left: $container-padding;
+    padding-right: $container-padding;
+  }
+
+
+    
+  .site-content {
+    margin-top: -3rem;
+  }
+    
+  .container h1:first-child {
+    margin-top: 5rem;
+  }
+}
+
+@media only screen and (min-width: 998px) {
+    #main-wrap {
+        width: 998px;
+    }
+}

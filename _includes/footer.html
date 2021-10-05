@@ -1,0 +1,45 @@
+<footer id="colophon" class="site-footer">
+  <div class="container container--lg">
+    <div class="site-footer__inside">
+      <div class="site-footer__info">
+        {% assign content_is_not_empty = site.data.config.footer.content | is_not_empty %}
+        {% if content_is_not_empty %}
+        <div class="site-footer__copyright">{{ site.data.config.footer.content }}</div>
+        {% endif %}
+        {% assign phone_is_not_empty = site.data.config.footer.phone | is_not_empty %}
+        {% if phone_is_not_empty %}
+        <div class="site-footer__phone">
+            <img src="/images/phone.svg" class="light-filter"/> {{ site.data.config.footer.phone }}</div>
+        {% endif %}
+        {% assign email_is_not_empty = site.data.config.footer.email | is_not_empty %}
+        {% if email_is_not_empty %}
+        <div class="site-footer__email">
+           <img src="/images/email.svg" class="light-filter"/> 
+           <a href="mailto:{{ site.data.config.footer.email }}">{{ site.data.config.footer.email }}</a></div>
+        {% endif %}
+        {% for action in site.data.config.footer.links %}
+          
+          {% include action_link.html action=action %}
+        {% endfor %}
+      </div>
+      {% assign has_social_is_not_empty = site.data.config.footer.has_social | is_not_empty %}
+      {% if has_social_is_not_empty %}
+      <div class="site-footer__social">
+        {% for action in site.data.config.footer.social_links %}
+          
+          {% include action.html action=action %}
+        {% endfor %}
+        {% assign link_is_not_empty = site.data.config.footer.link | is_not_empty %}
+        {% if link_is_not_empty %}
+        <div class="site-footer__link">
+            <a href="/{{ site.data.config.footer.link }}">{{ site.data.config.footer.link }}</a></div>
+        {% endif %}
+        {% assign slogan_is_not_empty = site.data.config.footer.slogan | is_not_empty %}
+        {% if slogan_is_not_empty %}
+        <div class="site-footer__slogan">{{ site.data.config.footer.slogan }}</div>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,51 @@
+.project {
+  margin-bottom: 5em;
+
+  &__header {
+    margin-bottom: 2em;
+  }
+
+  &__title {
+    margin: 0;
+  }
+  
+  &__subtitle {
+    color: $color-gray-300;
+    font-size: 1.22222em;
+    line-height: 1.4;
+    margin-top: 0.5em;
+  }
+
+  &__body figure.container, figure.container--lg {
+    margin-left: 0;
+  }
+
+  figure img {        
+        max-width: 660px;
+    }
+}
+
+@media only screen and (min-width: 601px) {
+  .project {
+    margin: 5rem 3rem 0 3rem;
+    
+    &__header {
+      margin-bottom: 2.5em;
+    }
+
+    &__subtitle {
+      font-size: 1.33333em;
+    }
+  }
+}
+
+@media only screen and (max-width: 948px) {
+  .project {
+    figure {
+        margin-right: 1.5rem;
+    }
+    figure img {
+      max-width: calc(100% + 6vw);
+    }
+  }
+}   

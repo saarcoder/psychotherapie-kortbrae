@@ -1,0 +1,81 @@
+{
+    "title": "Yoga mit Shilpa - Namaste!",
+    "color_scheme": "light",
+    "accent_color": "yellow",
+    "base_font": "fraunces",
+    "header": {
+        "title": "Yoga mit Shilpa",
+        "logo": "images/logo.png",
+        "logo_alt": "Yoga mit Shilpa",
+        "branding": "images/lotos.png",
+        "branding_alt": "Symbolbild Lotosblüte",
+        "leitspruch": "Breathe... and smile!",
+        "wolke": "images/words.png",
+        "wolke_alt": "Leitworte",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "icon",
+                "icon": "lotos"
+            },
+            {
+                "label": "Kursplan",
+                "url": "/portfolio/kursplan",
+                "style": "link"
+            },
+            {
+                "label": "Philosophie",
+                "url": "/philosophie",
+                "style": "link",
+                "icon": "lotos",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Yoga-Therapie",
+                "url": "/therapie",
+                "style": "link",
+                "icon": "lotos",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Specials",
+                "url": "/specials",
+                "style": "link"
+            },
+            {
+                "label": "Kontakt",
+                "url": "/kontakt/",
+                "style": "link"
+            }
+        ]
+    },
+    "footer": {
+        "content": "Shilpa Valia-Wendland",
+        "phone": "0173 360 666 5",
+        "email": "kontakt@yoga-mit-shilpa.de",
+        "slogan": "Atme und lächle. Breathe and smile.",
+        "has_social": true,
+        "link": "impressum",
+        "social_links": [
+            {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/yogamitshilpa",
+                "style": "icon",
+                "icon": "facebook",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/yogawithshilpa/",
+                "style": "icon",
+                "icon": "instagram",
+                "new_window": true
+            }
+        ]
+    },
+    "domain": "https://diligent-artichoke-f7734.netlify.app"
+}
