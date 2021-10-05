@@ -91,7 +91,8 @@
   list-style: none;
   margin: 0;
   padding: 0;
-
+  
+  
   &__item--current,
   a:not(.button):hover {
     color: $color-accent;
