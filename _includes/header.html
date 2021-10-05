@@ -10,7 +10,7 @@
     {% endif %}
     {% assign leitspruch_is_not_empty = site.data.config.header.logo | is_not_empty %}
     {% if logo_is_not_empty %}
-    <div id="breathe">{{ site.data.config.header.logo }}</div>
+    <div id="breathe"><img src="{{ site.data.config.header.logo }}</div>
     {% endif %}
   </div>
 </header>
