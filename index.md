@@ -24,9 +24,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Yogalehrerin in Saarbr&uuml;cken f&uuml;r Yoga mit Anusara-Elementen,
-        Hormonyoga, Yogatherapie. Gewinne durch Yoga an Ruhe, Kraft und
-        Wohlbefinden.
+        kognitive Verhaltenstherapie, Selbstmanagement, Coaching, Burn-out, Partnerschaftstherapie
       keyName: property
     - name: 'og:image'
       value: images/lotos.png
