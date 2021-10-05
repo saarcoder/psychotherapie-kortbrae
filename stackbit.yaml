@@ -56,7 +56,7 @@ models:
         name: base_font
         label: Font
         options:
-          - fraunces
+          - noticia
           - karla
           - system-sans
         default: fraunces
