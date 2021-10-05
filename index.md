@@ -36,9 +36,7 @@ seo:
       value: Yoga mit Shilpa!
     - name: 'twitter:description'
       value: >-
-        Yogalehrerin in Saarbr&uuml;cken f&uuml;r Yoga mit Anusara-Elementen,
-        Hormonyoga, Yogatherapie. Gewinne durch Yoga an Ruhe, Kraft und
-        Wohlbefinden.
+        kognitive Verhaltenstherapie, Selbstmanagement, Coaching, Burn-out, Partnerschaftstherapie
     - name: 'twitter:image'
       value: images/lotos.png
       relativeUrl: true
