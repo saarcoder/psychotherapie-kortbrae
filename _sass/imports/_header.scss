@@ -95,11 +95,6 @@
   &__item {
       color: #1a72b0;
   }
-
-  &__item--current,
-  a:not(.button):hover {
-    color: $color-accent;
-  }
 }
 
 @media only screen and (min-width: 768px) {
