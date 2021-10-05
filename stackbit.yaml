@@ -49,17 +49,17 @@ models:
           - green
           - blue
           - violet
-          - yellow
+          - white
         default: pink
         required: true
       - type: enum
         name: base_font
         label: Font
         options:
-          - fraunces
+          - noticia
           - karla
           - system-sans
-        default: fraunces
+        default: noticia
         required: true
       - type: model
         name: header
@@ -93,10 +93,6 @@ models:
         name: leitspruch
         label: Leitspruch
         description: Leitspruch oben rechts
-      - type: string
-        name: wolke
-        label: Spruchwolke
-        description: Dateiname der Spruchwolke
       - type: boolean
         name: has_nav
         label: Navigations-Menü aktiv

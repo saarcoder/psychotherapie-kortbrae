@@ -1,32 +1,27 @@
 {
     "title": "Yoga mit Shilpa - Namaste!",
     "color_scheme": "light",
-    "accent_color": "yellow",
-    "base_font": "fraunces",
+    "accent_color": "white",
+    "base_font": "noticia",
     "header": {
         "title": "Yoga mit Shilpa",
         "logo": "images/logo.png",
         "logo_alt": "Yoga mit Shilpa",
-        "branding": "images/lotos.png",
-        "branding_alt": "Symbolbild Lotosblüte",
-        "leitspruch": "Breathe... and smile!",
-        "wolke": "images/words.png",
-        "wolke_alt": "Leitworte",
+        "leitspruch": "Praxis Sabine Kortbrae",
         "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
                 "url": "/",
-                "style": "icon",
-                "icon": "lotos"
+                "style": "link"
             },
             {
-                "label": "Kursplan",
+                "label": "Über mich",
                 "url": "/portfolio/kursplan",
                 "style": "link"
             },
             {
-                "label": "Philosophie",
+                "label": "Mein Angebot",
                 "url": "/philosophie",
                 "style": "link",
                 "icon": "lotos",
@@ -34,7 +29,7 @@
                 "no_follow": false
             },
             {
-                "label": "Yoga-Therapie",
+                "label": "Therapie",
                 "url": "/therapie",
                 "style": "link",
                 "icon": "lotos",
@@ -42,7 +37,7 @@
                 "no_follow": false
             },
             {
-                "label": "Specials",
+                "label": "Coaching",
                 "url": "/specials",
                 "style": "link"
             },

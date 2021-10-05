@@ -1,7 +1,9 @@
 .site-header {
-  height: 208px;
-  background-image: url(/images/bg-top.png);
-  background-repeat: no-repeat;
+  height: 143px;
+  background: #fff;
+  box-shadow: 0 3px 9px 0 rgba(10,10,10,.1);
+    -moz-box-shadow: 0 3px 9px 0 rgba(10,10,10,.1);
+    -webkit-box-shadow: 0 3px 9px 0 rgba(10,10,10,.1);
 }
 
 #head {
@@ -31,21 +33,6 @@
 
 #top {
   width: 100%;
-  background-image: url(/images/bg-sides.png);
-}
-
-#words {
-    margin-top: -27px;
-    padding: 0 1.5rem;
-    position: relative;
-    height: 100%;
-    display: grid;
-}
-
-#wolke {
-    height: auto;
-    max-width: 100%;
-    margin: auto;
 }
 
 .navbar {
@@ -55,7 +42,6 @@
   display: -ms-flexbox;
   display: flex;
   justify-content: flex-start;
-  background-image: url(/images/bg-sides.png);
 
   &__logo,
   &__title {
@@ -64,9 +50,17 @@
   }
 
   &__logo {
-    img {
-      max-height: 85px;
-    }
+    position: relative;
+    display: inline;
+    top: 0;
+    left: 40px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noticia',sans-serif;
+    font-weight: 100;
+    color: #1a72b0;
+    font-size: 24px;
+    line-height: 24px;
   }
 
   &__title {
@@ -94,17 +88,15 @@
   list-style: none;
   margin: 0;
   padding: 0;
-
-  &__item--current,
-  a:not(.button):hover {
-    color: $color-accent;
+  
+  &__item {
+      color: #1a72b0;
   }
 }
 
 @media only screen and (min-width: 768px) {
   .navbar {
     padding-left: 1.5rem;
-    margin-top: 3rem;
 
     &__toggle {
       display: none;
@@ -126,17 +118,21 @@
     align-items: center;
     display: -ms-flexbox;
     display: flex;
-    border-bottom: 1px solid;
 
     &__item {
-      font-size: .875rem;
-      text-transform: uppercase;
-      color: #555;
+      font-size: 18px;
+      font-weight: 700;
       line-height: 1.2;
       margin: 0 .75em;
       margin-bottom: -5px;
     }
-
+    &__item--current,
+    a:not(.button):hover {
+      background-color: #1a72b0;
+      color: #fff;
+      border-radius: 2px;
+      padding: 8px 12px 7px 12px;
+    }
     &__item:first-child > a > .icon {
         margin-left: -19px;
         width: 2em;
@@ -148,28 +144,9 @@
     }
   }
 
-  #words {
-    margin-top: -48px;
-  }
-
-  #wolke {
-    height: 154px;
-  }
-
   #top {
     margin-top: -106px;
     padding-top: 91px;
-  }
-
-  #deco {
-    background-image: url(../images/deco.png);
-    background-repeat: no-repeat;
-    width: 194px;
-    height: 196px;
-    position: relative;
-    float: right;
-    top: -10px;
-    padding-right: 100px;
   }
 }
 
@@ -283,16 +260,6 @@
       margin-top: 2px;
       font-size: 20px;
       text-align: center;
-  }
-
-  #logoimg {
-    position: absolute;
-    top: 150px;
-    left: calc(50vw - 67px);
-  }
-
-  #words {
-      display: none;
   }
 }
 
