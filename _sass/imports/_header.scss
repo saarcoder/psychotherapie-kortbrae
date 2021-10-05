@@ -50,7 +50,17 @@
   }
 
   &__logo {
-
+position: relative;
+    display: inline;
+    top: 0;
+    left: 40px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noticia',sans-serif;
+    font-weight: 100;
+    color: #1a72b0;
+    font-size: 24px;
+    line-height: 24px;
     }
   }
 
