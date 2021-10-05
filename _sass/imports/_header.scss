@@ -136,11 +136,11 @@
       margin: 0 .75em;
       margin-bottom: -5px;
     }
-        &__item--current,
-        a:not(.button):hover {
-            background-color: #1a72b0;
-            color: #fff;
-        }
+    &__item--current,
+    a:not(.button):hover {
+        background-color: #1a72b0;
+        color: #fff;
+    }
     &__item:first-child > a > .icon {
         margin-left: -19px;
         width: 2em;
