@@ -59,7 +59,7 @@ models:
           - noticia
           - karla
           - system-sans
-        default: fraunces
+        default: noticia
         required: true
       - type: model
         name: header
