@@ -12,7 +12,7 @@ sections:
     projects_number: 3
     title: Namaste!
 seo:
-  title: Praxis Sabine Kortbrae - Psychotherapie 
+  title: Praxis Sabine Kortbrae - Psychotherapie und Coaching
   description: >-
     Yogalehrerin in Saarbr&uuml;cken f&uuml;r Yoga mit Anusara-Elementen,
     Hormonyoga, Yogatherapie. Gewinne durch Yoga an Ruhe, Kraft und
