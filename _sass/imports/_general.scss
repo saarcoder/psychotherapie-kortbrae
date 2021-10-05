@@ -14,7 +14,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  background: #908167;
+  background: url(images);
 }
 
 @each $font, $stack in $fonts {
