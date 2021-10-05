@@ -20,7 +20,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Yoga mit Shilpa!
+      value: Praxis Sabine Kortbrae - Psychotherapie und Coaching
       keyName: property
     - name: 'og:description'
       value: >-
