@@ -8,7 +8,7 @@
       <a href='{{ '/' | relative_url }}'>{{ site.data.config.header.title }}</a>
     </div>
     {% endif %}
-    {% assign leitspruch_is_not_empty = site.data.config.header.leitspruch | is_not_empty %}
+    {% assign leitspruch_is_not_empty = site.data.config.header.logo | is_not_empty %}
     {% if logo_is_not_empty %}
     <div id="breathe">{{ site.data.config.header.logo }}</div>
     {% endif %}
