@@ -93,10 +93,6 @@ models:
         name: leitspruch
         label: Leitspruch
         description: Leitspruch oben rechts
-      - type: string
-        name: wolke
-        label: Spruchwolke
-        description: Dateiname der Spruchwolke
       - type: boolean
         name: has_nav
         label: Navigations-Menü aktiv
