@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Yoga mit Shilpa!
+      value: Praxis Sabine Kortbrae - Psychotherapie und Coaching
     - name: 'twitter:description'
       value: >-
         kognitive Verhaltenstherapie, Selbstmanagement, Coaching, Burn-out, Partnerschaftstherapie
