@@ -95,7 +95,7 @@
   &__item {
       color: #1a72b0;
   }
-  
+
   &__item--current,
   a:not(.button):hover {
     color: $color-accent;
@@ -132,7 +132,6 @@
     &__item {
       font-size: .875rem;
       text-transform: uppercase;
-      color: #555;
       line-height: 1.2;
       margin: 0 .75em;
       margin-bottom: -5px;
