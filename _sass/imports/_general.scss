@@ -14,7 +14,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  background: url(../../images);
+  background: url(../../bg2.jpg);
 }
 
 @each $font, $stack in $fonts {
