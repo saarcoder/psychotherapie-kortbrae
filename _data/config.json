@@ -13,8 +13,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "link",
-                "icon": "lotos"
+                "style": "link"
             },
             {
                 "label": "Über mich",
