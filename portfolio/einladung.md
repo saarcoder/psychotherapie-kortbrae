@@ -1,5 +1,5 @@
 ---
-title: Einladung
+title: Was ist Verhaltens-Therapie?
 subtitle: ''
 date: '2021-09-12'
 thumb_image_alt: Einladung
