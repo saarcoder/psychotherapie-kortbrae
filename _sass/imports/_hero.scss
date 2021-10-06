@@ -50,7 +50,7 @@
 @media only screen and (min-width: 768px) {
   .hero {
     display: grid;
-    grid-template-columns: ;
+    grid-template-columns: 1fr;
     &__title {
       font-size: 1.2em;
     }
