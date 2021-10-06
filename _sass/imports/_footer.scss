@@ -67,7 +67,7 @@
   .site-footer {
     padding: 1.5rem 0;
     width: 100%;
-    
+
     &__inside {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -101,6 +101,10 @@
         margin-right: 0;
       }
     }
+  }
+
+  .site-footer .container {
+      padding-left: 0;
   }
 }
 
