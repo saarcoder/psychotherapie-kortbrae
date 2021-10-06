@@ -49,7 +49,7 @@
 
 @media only screen and (min-width: 768px) {
   .hero {
-    display: flex;
+    display: grid;
     &__title {
       font-size: 1.2em;
     }
