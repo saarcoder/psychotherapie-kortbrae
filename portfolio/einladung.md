@@ -2,7 +2,6 @@
 title: Einladung
 subtitle: ''
 date: '2021-09-12'
-thumb_image: images/03.jpg
 thumb_image_alt: Einladung
 sections:
   - type: image_section
