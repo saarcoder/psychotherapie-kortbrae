@@ -30,7 +30,7 @@
             },
             {
                 "label": "Therapie",
-                "url": "/verhaltenstherapie",
+                "url": "/therapie",
                 "style": "link",
                 "icon": "lotos",
                 "new_window": false,
