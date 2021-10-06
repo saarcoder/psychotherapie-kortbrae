@@ -38,4 +38,5 @@ seo:
       value: images/gutschein.jpg
       relativeUrl: true
 layout: project
+thumb_image: images/angebot_mini.jpg
 ---
