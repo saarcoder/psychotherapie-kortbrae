@@ -38,6 +38,7 @@ seo:
       value: images/studio.jpg
       relativeUrl: true
 layout: project
+thumb_image: images/therapie_mini.jpg
 ---
 ### Neu! Yogastudio "Raum für Begegnung"
 
