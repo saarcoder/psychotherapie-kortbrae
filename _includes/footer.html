@@ -5,6 +5,11 @@
         {% if content_is_not_empty %}
         <div class="site-footer__copyright">{{ site.data.config.footer.content }}</div>
         {% endif %}
+        {% assign phone_is_not_empty = site.data.config.footer.phone | is_not_empty %}
+        {% if phone_is_not_empty %}
+        <div class="site-footer__phone">
+            <img src="/images/phone.svg" class="light-filter"/> {{ site.data.config.footer.phone }}</div>
+        {% endif %}
         {% for action in site.data.config.footer.links %}
           
           {% include action_link.html action=action %}
@@ -14,12 +19,6 @@
         <div class="site-footer__email">
            <img src="/images/email.svg" class="light-filter"/> 
            <a href="mailto:{{ site.data.config.footer.email }}">{{ site.data.config.footer.email }}</a></div>
-        {% endif %}
-
-        {% assign phone_is_not_empty = site.data.config.footer.phone | is_not_empty %}
-        {% if phone_is_not_empty %}
-        <div class="site-footer__phone">
-            <img src="/images/phone.svg" class="light-filter"/> {{ site.data.config.footer.phone }}</div>
         {% endif %}
       <div class="site-footer__link">
         <a href="/{{ site.data.config.footer.link }}">{{ site.data.config.footer.link }}</a>
