@@ -116,13 +116,13 @@
       line-height: 1.2;
       margin: 0 .75em;
       margin-bottom: -5px;
+      padding: 8px 12px 7px 12px;
     }
     &__item--current,
     a:not(.button):hover {
       background-color: #1a72b0;
       color: #fff;
       border-radius: 2px;
-      padding: 8px 12px 7px 12px;
     }
     &__item:first-child > a > .icon {
         margin-left: -19px;
