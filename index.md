@@ -10,11 +10,11 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     projects_number: 3
-    title: Namaste!
 seo:
   title: Praxis Sabine Kortbrae - Psychotherapie und Coaching
   description: >-
-    kognitive Verhaltenstherapie, Selbstmanagement, Coaching, Burn-out, Partnerschaftstherapie
+    kognitive Verhaltenstherapie, Selbstmanagement, Coaching, Burn-out,
+    Partnerschaftstherapie
   extra:
     - name: 'og:type'
       value: website
@@ -24,7 +24,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        kognitive Verhaltenstherapie, Selbstmanagement, Coaching, Burn-out, Partnerschaftstherapie
+        kognitive Verhaltenstherapie, Selbstmanagement, Coaching, Burn-out,
+        Partnerschaftstherapie
       keyName: property
     - name: 'og:image'
       value: images/lotos.png
@@ -36,7 +37,8 @@ seo:
       value: Praxis Sabine Kortbrae - Psychotherapie und Coaching
     - name: 'twitter:description'
       value: >-
-        kognitive Verhaltenstherapie, Selbstmanagement, Coaching, Burn-out, Partnerschaftstherapie
+        kognitive Verhaltenstherapie, Selbstmanagement, Coaching, Burn-out,
+        Partnerschaftstherapie
     - name: 'twitter:image'
       value: images/lotos.png
       relativeUrl: true
