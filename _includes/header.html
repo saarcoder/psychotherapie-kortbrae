@@ -15,25 +15,5 @@
   </div>
 </header>
 <div id="top">
-  <nav class="navbar" aria-label="Main Navigation">   
-    {% assign has_nav_is_not_empty = site.data.config.header.has_nav | is_not_empty %}
-    {% if has_nav_is_not_empty %}
-    <div class="navbar__menu-container">
-      <div class="navbar__scroller">
-        <button id="navbar__close" class="navbar__toggle js-nav-toggle"><span class="screen-reader-text">Close Menu</span><span class="icon-close" aria-hidden="true"></span></button>
-        <ul class="navbar__menu menu">
-          {% for action in site.data.config.header.nav_links %}
-          {% assign pageUrl = page.url | trim: '/' %}
-          {% assign actionUrl = action.url | trim: '/' %}
-          <li class="menu__item{% if pageUrl == actionUrl %} menu__item--current{% endif %}{% if action.style != 'link' %} menu__item--button{% endif %}">
-            
-            {% include action.html action=action %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-    <button id="navbar__open" class="navbar__toggle js-nav-toggle"><span class="screen-reader-text">Open Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
-    {% endif %}
-  </nav>
+
 </top>
