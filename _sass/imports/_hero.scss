@@ -91,6 +91,15 @@
     font-weight: 400;
     color: #3a3a3a;
   }
+  #rightBottom {
+    position: static;
+    margin: 0;
+    padding: 0;
+    width: 315px;
+    min-height: 236px;
+    background-color: #fff;
+    border: 1px solid #DDD;
+}
 }
 
 @media only screen and (max-width: 767px) {
