@@ -117,7 +117,8 @@
       margin: 0 .75em;
       margin-bottom: -5px;
     }
-    a:not(.button):hover {
+    
+    &__item,a:not(.button):hover {
 
       padding: 8px 12px 7px 12px;
     }
