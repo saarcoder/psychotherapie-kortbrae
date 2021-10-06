@@ -27,6 +27,18 @@
   max-width: 998px;
   margin-bottom: 3rem;
   background-color: #f6f6f6;
+      position: relative;
+    min-height: 100%;
+    height: auto!important;
+    top: 0;
+    height: 100%;
+    width: 1152px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #fff;
+    -moz-box-shadow: 0 0 10px 0 #020617;
+    -webkit-box-shadow: 0 0 10px 0 #020617;
+    box-shadow: 0 0 10px 0 #020617;
 }
 
 @media only screen and (min-width: 767px) {
