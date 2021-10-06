@@ -1,4 +1,4 @@
-# ✨ Yoga mit Shilpa! ✨
+# ✨ Psychotherapie  ✨
 
 <img src="/images/yoga-mit-shilpa-1024x843.png" width="600">
 
