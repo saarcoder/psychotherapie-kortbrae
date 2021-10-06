@@ -118,7 +118,10 @@
       margin-bottom: -5px;
       padding: 8px 12px 7px 12px;
     }
-    a:not(.button):hover {}
+    a:not(.button):hover {
+
+    }
+    
     &__item--current,
     a:not(.button):hover {
       background-color: #1a72b0;
