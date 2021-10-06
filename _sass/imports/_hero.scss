@@ -51,7 +51,7 @@
 @media only screen and (min-width: 768px) {
   .hero {
     display: grid;
-    grid-template-columns: .66fr .33fr;
+    grid-template-columns: 2fr 1fr;
     &__title {
       font-size: 1.2em;
     }
@@ -65,7 +65,7 @@
   #right_start {
       background: #fff;
   }
-  
+
   #rightTop {
     margin: 0;
     margin-top: -7px;
