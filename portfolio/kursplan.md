@@ -36,7 +36,6 @@ seo:
       value: images/01.jpg
       relativeUrl: true
 layout: project
-thumb_image: images/person_main.jpg
 ---
 <div class="responsive-table">
   <table>
