@@ -7,6 +7,6 @@
     {% endif %}
     {% assign author_is_not_empty = section.author | is_not_empty %}
     {% if author_is_not_empty %}
-    <cite>Franz Kafka</cite>
+    <cite>{{ section.author }}</cite>
   </div>
 </section>
