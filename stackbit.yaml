@@ -408,6 +408,10 @@ models:
         name: phone
         label: Telefon
         description: Die Telefonnummer auf der Visitenkarte
+      - type: image
+        name: image
+        label: Bild
+        description: The image of the section
   hero_section:
     type: object
     label: Hero Section
