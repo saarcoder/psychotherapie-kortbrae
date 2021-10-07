@@ -322,7 +322,7 @@ models:
         description: The alt text of the single post image
       - type: string
         name: excerpt
-        label: Excerpt
+        label: Zusammenfassung
         description: The excerpt of the post displayed in the post grid
       - type: model
         name: seo
