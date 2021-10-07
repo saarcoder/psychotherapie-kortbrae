@@ -298,7 +298,7 @@ models:
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Untertitel
         description: The text shown just below the post title
       - type: date
         name: date
