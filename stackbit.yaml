@@ -390,7 +390,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Name
         description: The title of the section
   hero_section:
     type: object
