@@ -429,6 +429,9 @@ models:
         name: image
         label: Bild
         description: The image of the section
+  citations_section:
+    type: object
+    label: Zitat
   content_section:
     type: object
     label: Content Section
