@@ -431,7 +431,7 @@ models:
         description: The image of the section
   citations_section:
     type: object
-    label: Zitat
+    label: Zitatspalte
     extends:
       - section
     fields:
