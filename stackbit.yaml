@@ -165,7 +165,7 @@ models:
         required: true
       - type: boolean
         name: hide_title
-        label: Hide page title
+        label: Seitentitel verbergen
         default: true
       - type: list
         name: sections
