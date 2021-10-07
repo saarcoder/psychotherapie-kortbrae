@@ -400,7 +400,6 @@ models:
         name: street
         label: Straße
         description: Die Straßenangabe auf der Visitenkarte
-
   hero_section:
     type: object
     label: Hero Section
