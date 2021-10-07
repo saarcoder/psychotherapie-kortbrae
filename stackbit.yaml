@@ -388,7 +388,9 @@ models:
     extends:
       - section
     fields:
-      - type:
+      - type:        name: content
+        label: Content
+        description: The text content of the section
   hero_section:
     type: object
     label: Hero Section
