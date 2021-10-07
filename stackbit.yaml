@@ -441,7 +441,7 @@ models:
         description: Der Zitattext
       - type: string
         name: content
-        label: Content
+        label: Ih
         description: The text content of the section
   content_section:
     type: object
