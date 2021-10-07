@@ -10,6 +10,7 @@ sections:
     section_id: hero-card
     title: Sabine Kortbrae
     content: "-"
+    beruf: Verhaltenstherapeutin
     street: Wolfsgangstraße 65
   - type: portfolio_section
     section_id: latest-projects
