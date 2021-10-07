@@ -22,7 +22,8 @@ sections:
   - type: citations_section
     section_id: citations
     quote: Wege entstehen dadurch, dass man sie geht.
-    content: Hallo
+    author: Franz Kafka
+    content: '-'
 seo:
   title: Praxis Sabine Kortbrae - Psychotherapie und Coaching
   description: >-
