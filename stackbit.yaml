@@ -96,7 +96,7 @@ models:
       - type: boolean
         name: has_nav
         label: Navigations-Menü aktiv
-        description: Navigationsmenü im Seitenkopf anzeigen
+        description: Navigationsmenue im Seitenkopf anzeigen
         default: true
       - type: list
         name: nav_links
@@ -323,7 +323,7 @@ models:
       - type: string
         name: excerpt
         label: Zusammenfassung
-        description: Zusammenfassungs des Beitrags in der Übersicht
+        description: Zusammenfassungs des Beitrags in der Uebersicht
       - type: model
         name: seo
         models:
