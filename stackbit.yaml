@@ -382,7 +382,7 @@ models:
         name: title
         label: Title
         description: The title of the section
-        
+  
   hero_section:
     type: object
     label: Hero Section
