@@ -399,6 +399,36 @@ models:
           type: model
           models:
             - action
+  hero-card_section:
+    type: object
+    label: Rechte Spalte
+    extends:
+      - section
+    fields:
+      - type: string
+        name: title
+        label: Name
+        description: Der Name auf der Visitenkarte
+      - type: string
+        name: occupation
+        label: Beruf
+        description: Die Berufsangabe auf der Visitenkarte        
+      - type: string
+        name: street
+        label: Straße
+        description: Die Straßenangabe auf der Visitenkarte
+      - type: string
+        name: city
+        label: PLZ und Stadt
+        description: Die Stadt auf der Visitenkarte
+      - type: string
+        name: phone
+        label: Telefon
+        description: Die Telefonnummer auf der Visitenkarte
+      - type: image
+        name: image
+        label: Bild
+        description: The image of the section
   content_section:
     type: object
     label: Content Section
