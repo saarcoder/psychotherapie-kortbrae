@@ -403,7 +403,7 @@ models:
       - type: string
         name: phone
         label: Telefon
-        description: Die Straßenangabe auf der Visitenkarte
+        description: Die Telefonnummer auf der Visitenkarte
   hero_section:
     type: object
     label: Hero Section
