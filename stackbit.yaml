@@ -293,7 +293,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Titel
         description: Beitragstitel
         required: true
       - type: string
