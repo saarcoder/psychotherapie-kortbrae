@@ -439,6 +439,10 @@ models:
         name: quote
         label: Zitat
         description: Der Zitattext
+              - type: markdown
+        name: content
+        label: Content
+        description: The text content of the section
   content_section:
     type: object
     label: Content Section
