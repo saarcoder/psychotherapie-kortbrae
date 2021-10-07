@@ -437,7 +437,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Name
+        label: Zitat
   content_section:
     type: object
     label: Content Section
