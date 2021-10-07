@@ -432,7 +432,9 @@ models:
   citations_section:
     type: object
     label: Zitat
-    ext
+    extends:
+      - section
+      
   content_section:
     type: object
     label: Content Section
