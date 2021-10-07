@@ -383,6 +383,8 @@ models:
         label: Title
         description: The title of the section
   hero-card_section:
+    type: object
+    label: 
   hero_section:
     type: object
     label: Hero Section
