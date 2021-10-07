@@ -310,7 +310,7 @@ models:
         description: Bild im Beitragsraster
       - type: string
         name: thumb_image_alt
-        label: Vorschaubild
+        label: Alternativtext Vorschaubild
         description: The alt text of the thumbnail image
       - type: image
         name: image
