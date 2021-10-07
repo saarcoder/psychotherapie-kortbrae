@@ -441,7 +441,7 @@ models:
         description: Der Zitattext
       - type: string
         name: author
-        label: Inhalt
+        label: Autor
         description: Der Name des Autors
   content_section:
     type: object
