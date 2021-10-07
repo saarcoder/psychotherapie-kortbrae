@@ -396,7 +396,7 @@ models:
         name: street
         label: Straße
         description: Die Straßenangabe auf der Visitenkarte
-              - type: string
+      - type: string
         name: beruf
         label: Straße
         description: Die Straßenangabe auf der Visitenkarte
