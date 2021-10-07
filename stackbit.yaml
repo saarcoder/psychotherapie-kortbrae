@@ -388,10 +388,10 @@ models:
     extends:
       - section
     fields:
-      - type: markdown
-        name: content
-        label: Content
-        description: The text content of the section
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section
   hero_section:
     type: object
     label: Hero Section
