@@ -392,7 +392,10 @@ models:
         name: title
         label: Name
         description: Der Name auf der Visitenkarte
-        
+      - type: string
+        name: beruf
+        label: Beruf
+        description: Die Berufsangabe auf der Visitenkarte        
       - type: string
         name: street
         label: Straße
