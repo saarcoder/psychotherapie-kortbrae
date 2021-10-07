@@ -439,7 +439,7 @@ models:
         name: quote
         label: Zitat
         description: Der Zitattext
-              - type: markdown
+              - type: string
         name: content
         label: Content
         description: The text content of the section
