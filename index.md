@@ -10,7 +10,7 @@ sections:
     section_id: hero-card
     title: Sabine Kortbrae
     content: "-"
-    beruf: Verhaltenstherapeutin
+    occupation: Verhaltenstherapeutin
     street: Wolfsgangstraße 65
     city: 60322 Frankfurt
     phone: 069 – 13 39 12 67
