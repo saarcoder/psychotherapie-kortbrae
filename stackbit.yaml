@@ -266,7 +266,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: Seitentitel
+        description: The title of the page
         required: true
       - type: string
         name: subtitle
@@ -274,11 +274,11 @@ models:
         description: Text unterhalb des Seitentitels
       - type: image
         name: image
-        label: Bild
-        description: Bild unterhalb Seitentitel und Untertitel
+        label: Image
+        description: The image shown below the page title and subtitle
       - type: string
         name: image_alt
-        label: Alternativtext des Bildes
+        label: Image alt text
         description: The alt text of the image
       - type: model
         name: seo
@@ -293,16 +293,16 @@ models:
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Beitragstitel
+        label: Title
+        description: The title of the post
         required: true
       - type: string
         name: subtitle
-        label: Untertitel
-        description: Text unterhalb des Beitragstitels
+        label: Subtitle
+        description: The text shown just below the post title
       - type: date
         name: date
-        label: Datum
+        label: Date
         required: true
       - type: image
         name: thumb_image
