@@ -271,7 +271,7 @@ models:
       - type: string
         name: subtitle
         label: Untertitel
-        description: The text shown just below the page title
+        description: Text unterhalb des Seitentitels
       - type: image
         name: image
         label: Image
