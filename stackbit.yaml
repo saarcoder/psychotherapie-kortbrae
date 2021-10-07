@@ -206,7 +206,7 @@ models:
         description: Der Text direkt unter dem Titel
       - type: boolean
         name: hide_title
-        label: Titel und Untertitel verberge
+        label: Titel und Untertitel verbergen
         default: false
       - type: enum
         name: col_number
