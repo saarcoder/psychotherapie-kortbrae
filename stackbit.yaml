@@ -440,7 +440,7 @@ models:
         label: Zitat
         description: Der Zitattext
       - type: string
-        name: content
+        name: author
         label: Inhalt
         description: The text content of the section
   content_section:
