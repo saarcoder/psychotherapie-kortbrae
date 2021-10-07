@@ -1,7 +1,6 @@
 ---
 title: Angebot in Krisen
 date: '2021-09-13'
-thumb_image_alt: Gutschein
 sections:
   - type: image_section
     image: images/gutschein.jpg
