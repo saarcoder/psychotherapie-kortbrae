@@ -389,7 +389,7 @@ models:
       - section
     fields:
       - type: markdown
-          name: content
+        name: content
         label: Content
         description: The text content of the section
   hero_section:
