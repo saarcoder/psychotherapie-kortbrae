@@ -274,7 +274,7 @@ models:
         description: Text unterhalb des Seitentitels
       - type: image
         name: image
-        label: Image
+        label: Bild
         description: The image shown below the page title and subtitle
       - type: string
         name: image_alt
