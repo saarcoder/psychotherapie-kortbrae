@@ -438,6 +438,7 @@ models:
       - type: string
         name: quote
         label: Zitat
+        description: 
   content_section:
     type: object
     label: Content Section
