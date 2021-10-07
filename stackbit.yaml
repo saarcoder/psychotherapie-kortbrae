@@ -404,7 +404,7 @@ models:
         name: city
         label: PLZ und Stadt
         description: Die Stadt auf der Visitenkarte
-      - type: number
+      - type: string
         name: phone
         label: Telefon
         description: Die Telefonnummer auf der Visitenkarte
