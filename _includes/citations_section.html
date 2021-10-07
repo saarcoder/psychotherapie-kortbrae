@@ -6,7 +6,7 @@
     <blockquote>{{ section.quote }}</blockquote>
     {% endif %}
     {% assign author_is_not_empty = section.author | is_not_empty %}
-    
+    {% if author_is_not_empty %}
     <cite>Franz Kafka</cite>
   </div>
 </section>
