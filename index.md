@@ -14,7 +14,7 @@ sections:
     street: Wolfsgangstraße 65
     city: 60322 Frankfurt
     phone: 069 – 13 39 12 67
-    image: praxis.jpg
+    image: praxis.png
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
