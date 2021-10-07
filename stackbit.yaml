@@ -211,7 +211,7 @@ models:
       - type: enum
         name: col_number
         label: Spalten
-        description: Anzahl der Spalten im Grid der Artikel
+        description: Anzahl der Spalten im Raster der Artikel
         options:
           - two
           - three
