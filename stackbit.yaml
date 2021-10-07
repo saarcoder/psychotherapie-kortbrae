@@ -306,7 +306,7 @@ models:
         required: true
       - type: image
         name: thumb_image
-        label: Thumbnail image
+        label: Vorschaubild
         description: The image shown in the post grid
       - type: string
         name: thumb_image_alt
