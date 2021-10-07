@@ -388,7 +388,7 @@ models:
     extends:
       - section
     fields:
-    
+      - type:
   hero_section:
     type: object
     label: Hero Section
