@@ -12,7 +12,7 @@ sections:
     content: "-"
     beruf: Verhaltenstherapeutin
     street: Wolfsgangstraße 65
-    city: 
+    city: 60322 Frankfurt
     phone: 
   - type: portfolio_section
     section_id: latest-projects
