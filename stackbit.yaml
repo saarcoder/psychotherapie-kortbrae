@@ -400,7 +400,7 @@ models:
         name: street
         label: Straße
         description: Die Straßenangabe auf der Visitenkarte
-        - type: string
+      - type: string
         name: street
         label: Straße
         description: Die Straßenangabe auf der Visitenkarte
