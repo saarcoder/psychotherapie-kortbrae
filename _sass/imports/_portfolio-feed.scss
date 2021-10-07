@@ -185,7 +185,7 @@
       &:focus {
         .project-card__image {
           opacity: .5;
-          -webkit-transform: translateY(-35px);
+          -webkit-transform: translateY(35px);
           transform: translateY(35px);
         }
 
