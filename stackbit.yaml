@@ -88,7 +88,7 @@ models:
       - type: string
         name: logo_alt
         label: Logo alt-Text
-        description: alt-Text des Logos fuer Screenreader
+        description: alt-Text des Logos für Screenreader
       - type: string
         name: leitspruch
         label: Leitspruch
@@ -96,7 +96,7 @@ models:
       - type: boolean
         name: has_nav
         label: Navigations-Menü aktiv
-        description: Navigationsmenue im Seitenkopf anzeigen
+        description: Navigationsmenü im Seitenkopf anzeigen
         default: true
       - type: list
         name: nav_links
@@ -161,15 +161,15 @@ models:
       - type: string
         name: title
         label: Titel
-        description: Seitentitel
+        description: The title of the page
         required: true
       - type: boolean
         name: hide_title
-        label: Seitentitel verbergen
+        label: Hide page title
         default: true
       - type: list
         name: sections
-        label: Abschnitte
+        label: Sections
         description: Page sections
         items:
           type: model
@@ -206,12 +206,12 @@ models:
         description: Der Text direkt unter dem Titel
       - type: boolean
         name: hide_title
-        label: Titel und Untertitel verbergen
+        label: Titel und Untertitel verstecken
         default: false
       - type: enum
         name: col_number
         label: Spalten
-        description: Anzahl der Spalten im Raster
+        description: Die Anzahl der Spalten im Grid der Artikel
         options:
           - two
           - three
@@ -232,20 +232,20 @@ models:
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Seitentitel
+        label: Title
+        description: The title of the page
         required: true
       - type: string
         name: subtitle
-        label: Untertitel
-        description: Text unterhalb des Seitentitels
+        label: Subtitle
+        description: The text shown just below the page title
       - type: boolean
         name: hide_title
-        label: Seitentitel und Untertitel verbergen
+        label: Hide page title and subtitle
         default: false
       - type: enum
         name: layout_style
-        label: Layout-Stil
+        label: Layout style
         description: The style of the portfolio layout
         options:
           - mosaic
@@ -265,20 +265,20 @@ models:
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Seitentitel
+        label: Title
+        description: The title of the page
         required: true
       - type: string
         name: subtitle
-        label: Untertitel
-        description: Text unterhalb des Seitentitels
+        label: Subtitle
+        description: The text shown just below the page title
       - type: image
         name: image
-        label: Bild
-        description: Bild unterhalb Seitentitel und Untertitel
+        label: Image
+        description: The image shown below the page title and subtitle
       - type: string
         name: image_alt
-        label: Alternativtext des Bildes
+        label: Image alt text
         description: The alt text of the image
       - type: model
         name: seo
@@ -293,37 +293,37 @@ models:
     fields:
       - type: string
         name: title
-        label: Titel
-        description: Beitragstitel
+        label: Title
+        description: The title of the post
         required: true
       - type: string
         name: subtitle
-        label: Untertitel
-        description: Text unterhalb des Beitragstitels
+        label: Subtitle
+        description: The text shown just below the post title
       - type: date
         name: date
-        label: Datum
+        label: Date
         required: true
       - type: image
         name: thumb_image
-        label: Vorschaubild
-        description: Bild im Beitragsraster
+        label: Thumbnail image
+        description: The image shown in the post grid
       - type: string
         name: thumb_image_alt
-        label: Alternativtext Vorschaubild
+        label: Thumbnail image alt text
         description: The alt text of the thumbnail image
       - type: image
         name: image
-        label: Bild
-        description: Bild des Beitrags
+        label: Image
+        description: The image shown in the single post
       - type: string
         name: image_alt
-        label: Alternativtext des Bildes
+        label: Image alt text
         description: The alt text of the single post image
       - type: string
         name: excerpt
-        label: Zusammenfassung
-        description: Zusammenfassungs des Beitrags in der Uebersicht
+        label: Excerpt
+        description: The excerpt of the post displayed in the post grid
       - type: model
         name: seo
         models:
