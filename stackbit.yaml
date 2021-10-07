@@ -436,7 +436,7 @@ models:
       - section
     fields:
       - type: string
-        name: title
+        name: citation
         label: Zitat
   content_section:
     type: object
