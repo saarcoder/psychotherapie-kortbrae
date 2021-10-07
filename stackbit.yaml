@@ -559,7 +559,7 @@ models:
             - action
   portfolio_section:
     type: object
-    label: Portfolio Section
+    label: Portfolio
     extends:
       - section
     fields:
