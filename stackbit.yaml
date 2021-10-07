@@ -391,7 +391,7 @@ models:
       - type: string
         name: title
         label: Name
-        description: The title of the section
+        description: Der Name auf der Visietenkarte
   hero_section:
     type: object
     label: Hero Section
