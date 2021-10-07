@@ -299,7 +299,7 @@ models:
       - type: string
         name: subtitle
         label: Untertitel
-        description: Text unterhalb des Seitentitels
+        description: Text unterhalb des Beitragstitels
       - type: date
         name: date
         label: Date
