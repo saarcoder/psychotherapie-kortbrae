@@ -396,10 +396,7 @@ models:
         name: street
         label: Straße
         description: Die Straßenangabe auf der Visitenkarte
-      - type: string
-        name: beruf
-        label: Beruf
-        description: Die Berufsangabe auf der Visitenkarte
+
   hero_section:
     type: object
     label: Hero Section
