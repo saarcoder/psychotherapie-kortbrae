@@ -161,7 +161,7 @@ models:
       - type: string
         name: title
         label: Titel
-        description: The title of the page
+        description: Seitentitel
         required: true
       - type: boolean
         name: hide_title
