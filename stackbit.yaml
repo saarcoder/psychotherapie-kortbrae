@@ -294,7 +294,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the post
+        description: Beitragstitel
         required: true
       - type: string
         name: subtitle
