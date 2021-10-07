@@ -323,7 +323,7 @@ models:
       - type: string
         name: excerpt
         label: Zusammenfassung
-        description: The excerpt of the post displayed in the post grid
+        description: Zusammenfassungs des Beitrags in der Übersicht
       - type: model
         name: seo
         models:
