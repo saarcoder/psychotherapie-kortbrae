@@ -302,7 +302,7 @@ models:
         description: Text unterhalb des Beitragstitels
       - type: date
         name: date
-        label: Date
+        label: Datum
         required: true
       - type: image
         name: thumb_image
