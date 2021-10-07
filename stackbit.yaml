@@ -245,7 +245,7 @@ models:
         default: false
       - type: enum
         name: layout_style
-        label: Layout style
+        label: Layout-Stil
         description: The style of the portfolio layout
         options:
           - mosaic
