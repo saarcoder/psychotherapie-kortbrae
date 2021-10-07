@@ -8,6 +8,7 @@ sections:
     title: Herzlich willkommen!
   - type: hero-card_section
     section_id: hero-card
+    content: 
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
