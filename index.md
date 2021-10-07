@@ -9,7 +9,7 @@ sections:
   - type: hero-card_section
     section_id: hero-card
     title: Sabine Kortbrae
-    content: ""
+    content: "-"
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
