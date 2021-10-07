@@ -386,7 +386,7 @@ models:
     type: object
     label: Visitenkarte
     extends:
-    
+      - section
   hero_section:
     type: object
     label: Hero Section
