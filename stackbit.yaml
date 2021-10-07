@@ -436,6 +436,9 @@ models:
       - section
     fields:
       - type: string
+
+        name: title
+        label: Name
   content_section:
     type: object
     label: Content Section
