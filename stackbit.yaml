@@ -392,6 +392,10 @@ models:
         name: title
         label: Name
         description: Der Name auf der Visitenkarte
+              - type: string
+        name: title
+        label: Name
+        description: Der Name auf der Visitenkarte
   hero_section:
     type: object
     label: Hero Section
