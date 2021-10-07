@@ -9,7 +9,7 @@
                 {% endif %}
                 {% assign beruf_is_not_empty = section.beruf | is_not_empty %}
                 <p></p>                
-                {}
+                {% endif %}
                 {% assign strasse_is_not_empty = section.street | is_not_empty %}
                 {% if strasse_is_not_empty %}
                 <p>{{ section.street }}</p>
