@@ -8,6 +8,7 @@
                 <h4>{{ section.title }}</h4>
                 {% endif %}
                 {% assign strasse_is_not_empty = section.street | is_not_empty %}
+                {% if strasse_is_not_empty %}
                 <p></p>
                 <p> </p>
                 <p>Wolfsgangstraße 65</p>
