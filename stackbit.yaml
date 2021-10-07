@@ -241,7 +241,7 @@ models:
         description: Text unterhalb des Seitentitels
       - type: boolean
         name: hide_title
-        label: Hide page title and subtitle
+        label: Seitentitel und Untertitel verbergen
         default: false
       - type: enum
         name: layout_style
