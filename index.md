@@ -19,6 +19,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     projects_number: 3
+  - type: citations_section
 seo:
   title: Praxis Sabine Kortbrae - Psychotherapie und Coaching
   description: >-
