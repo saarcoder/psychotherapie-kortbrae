@@ -314,7 +314,7 @@ models:
         description: The alt text of the thumbnail image
       - type: image
         name: image
-        label: Image
+        label: Bild
         description: The image shown in the single post
       - type: string
         name: image_alt
