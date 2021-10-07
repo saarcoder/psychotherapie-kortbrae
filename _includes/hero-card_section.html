@@ -27,7 +27,7 @@
             <div id="rightBottom">
                 {% assign image_is_not_empty = section.image |is_not_empty %}
                 {% if image_is_not_empty %}
-                <p><img src="../images/{{ section.image }}" alt="Praxisräume" width="220" height="165"></p>
+                <p><img src="{{ section.image }}" alt="Praxisräume" width="220" height="165"></p>
                 {% endif %} 
             </div>
         </div>
