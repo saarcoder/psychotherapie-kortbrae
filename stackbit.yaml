@@ -434,7 +434,8 @@ models:
     label: Zitat
     extends:
       - section
-      
+    fields:
+      - type: string
   content_section:
     type: object
     label: Content Section
