@@ -315,7 +315,7 @@ models:
       - type: image
         name: image
         label: Bild
-        description: The image shown in the single post
+        description: Bild des Beitrags
       - type: string
         name: image_alt
         label: Image alt text
