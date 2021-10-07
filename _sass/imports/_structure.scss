@@ -43,5 +43,9 @@
     padding-left: $container-padding;
     padding-right: $container-padding;
   }
-  
+
+  .site-content {
+          display: grid;
+    grid-template-columns: 2fr 1fr;
+  }
 }
