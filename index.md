@@ -12,6 +12,7 @@ sections:
     content: "-"
     beruf: Verhaltenstherapeutin
     street: Wolfsgangstraße 65
+    
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
