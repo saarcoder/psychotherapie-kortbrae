@@ -160,16 +160,16 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the page
+        label: Titel
+        description: Seitentitel
         required: true
       - type: boolean
         name: hide_title
-        label: Hide page title
+        label: Seitentitel verbergen
         default: true
       - type: list
         name: sections
-        label: Sections
+        label: Abschnitte
         description: Page sections
         items:
           type: model
@@ -206,12 +206,12 @@ models:
         description: Der Text direkt unter dem Titel
       - type: boolean
         name: hide_title
-        label: Titel und Untertitel verstecken
+        label: Titel und Untertitel verbergen
         default: false
       - type: enum
         name: col_number
         label: Spalten
-        description: Die Anzahl der Spalten im Grid der Artikel
+        description: Anzahl der Spalten im Raster
         options:
           - two
           - three
@@ -232,20 +232,20 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the page
+        label: Titel
+        description: Seitentitel
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
-        description: The text shown just below the page title
+        label: Untertitel
+        description: Text unterhalb des Seitentitels
       - type: boolean
         name: hide_title
-        label: Hide page title and subtitle
+        label: Seitentitel und Untertitel verbergen
         default: false
       - type: enum
         name: layout_style
-        label: Layout style
+        label: Layout-Stil
         description: The style of the portfolio layout
         options:
           - mosaic
@@ -265,20 +265,20 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the page
+        label: Titel
+        description: Seitentitel
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
-        description: The text shown just below the page title
+        label: Untertitel
+        description: Text unterhalb des Seitentitels
       - type: image
         name: image
-        label: Image
-        description: The image shown below the page title and subtitle
+        label: Bild
+        description: Bild unterhalb Seitentitel und Untertitel
       - type: string
         name: image_alt
-        label: Image alt text
+        label: Alternativtext des Bildes
         description: The alt text of the image
       - type: model
         name: seo
@@ -293,16 +293,16 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
-        description: The title of the post
+        label: Titel
+        description: Beitragstitel
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
-        description: The text shown just below the post title
+        label: Untertitel
+        description: Text unterhalb des Beitragstitels
       - type: date
         name: date
-        label: Date
+        label: Datum
         required: true
       - type: image
         name: thumb_image
@@ -828,4 +828,3 @@ models:
               default: name
             - type: boolean
               name: relativeUrl
-              
