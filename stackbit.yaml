@@ -232,7 +232,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Titel
         description: The title of the page
         required: true
       - type: string
