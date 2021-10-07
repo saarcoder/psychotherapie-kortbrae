@@ -442,7 +442,7 @@ models:
       - type: string
         name: author
         label: Inhalt
-        description: The text content of the section
+        description: Der Name des Autors
   content_section:
     type: object
     label: Content Section
