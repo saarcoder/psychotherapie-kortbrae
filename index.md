@@ -13,7 +13,7 @@ sections:
     beruf: Verhaltenstherapeutin
     street: Wolfsgangstraße 65
     city: 60322 Frankfurt
-    phone: Tel.: 069 – 13 39 12 67
+    phone: 069 – 13 39 12 67
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
