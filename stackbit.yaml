@@ -384,7 +384,9 @@ models:
         description: The title of the section
   hero-card_section:
     type: object
-    label: 
+    label: Visitenkarte
+    extends:
+    
   hero_section:
     type: object
     label: Hero Section
