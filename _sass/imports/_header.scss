@@ -194,6 +194,8 @@
     overflow: hidden;
 
     .site-header {
+        height: 95px;
+        
       &:after {
         opacity: 1;
         -webkit-transition: opacity .25s;
