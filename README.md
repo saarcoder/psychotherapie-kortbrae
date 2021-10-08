@@ -4,7 +4,7 @@
 
 [Jekyll](https://jekyllrb.com)-Seite mit Git als [CMS](https://en.wikipedia.org/wiki/Content_management_system). Seiten-Editor: [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes). Build-Zeit: unter einer Minute.
 
-Mit Stackbit lassen sich verschiedene [Vorlagen](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/exto-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) wie diese benutzen. Wie wäre es mit einer anderen?
+Mit Stackbit lassen sich verschiedene [Vorlagen wie diese](https://themes.stackbit.com/demos/agency/) benutzen. Wie wäre es mit einer anderen?
 
 <details>
         <summary>🎨 &nbsp;<strong>Vorlagen</strong></summary>
