@@ -71,6 +71,3 @@ Hier ein paar Ressourcen zum Start:
 
 Wenn Du Hilfe benötigst, schau am besten zuerst auf unserer [Stackbit Support-Seite](https://stackbit.link/project-readme-support) nach.
 
-## Colophon
-
-Generated at `2021-09-01T12:59:16.902Z` by Stackbit version `0.3.55`.
