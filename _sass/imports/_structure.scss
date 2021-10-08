@@ -50,4 +50,7 @@
   }
 }
 
-@media only screen and (min-w)
+@media only screen and (max-width: 1200px) {
+    #hero .container--lg {
+    padding: 0 2rem;
+}
