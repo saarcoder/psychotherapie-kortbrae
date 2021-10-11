@@ -46,7 +46,10 @@
     text-decoration: underline;
   }
 
-  
+  &__subtitle img {
+
+    margin-right: 5px;
+  }
 
   &__image {
     border: 0;
