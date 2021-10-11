@@ -115,7 +115,6 @@
     .project-card__view-all:hover .project-card__button,
     .project-card__view-all:focus .project-card__button,
     .menu__item--current,
-    .menu a:not(.button):hover,
     blockquote:before {
       color: map-get($accent-colors, $accent);
     }
