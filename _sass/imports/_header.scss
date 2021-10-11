@@ -252,6 +252,10 @@
     }
   }
 
+      .menu a:not(.button):hover, .menu__item--current {
+        color: hsla(205, 74, 20,1);
+    }
+
   #logobild {
       display: none;
   }
