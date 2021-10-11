@@ -19,6 +19,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     projects_number: 3
+    subtitle: Mehr lesen
   - type: citations_section
     section_id: citations
     quote: 'Wege entstehen dadurch, dass man sie geht.'
