@@ -168,22 +168,6 @@
       font-size: 0.88889em;
       color: #fff;
     }
-    
-    &__link {
-      &:hover,
-      &:focus {
-        .project-card__image {
-          opacity: .5;
-          -webkit-transform: translateY(-35px);
-          transform: translateY(-35px);
-        }
-
-        .project-card__header {
-          -webkit-transform: translateY(0);
-          transform: translateY(0);
-        }
-      }
-    }
   }
 }
 
