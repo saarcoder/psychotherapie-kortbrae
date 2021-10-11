@@ -37,4 +37,5 @@ seo:
       relativeUrl: true
 layout: project
 thumb_image: images/angebot_mini.jpg
+subtitle: Mehr lesen
 ---
