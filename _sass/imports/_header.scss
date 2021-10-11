@@ -240,7 +240,7 @@
       }
     }
 
-    a:not(.button):hover, .menu__item--current {
+    .menu a:not(.button):hover, .menu__item--current {
         color: hsla(205, 74, 20,1);
     }
 
