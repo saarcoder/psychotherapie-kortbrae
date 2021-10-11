@@ -165,5 +165,7 @@
     .section--portfolio .container--lg {
         margin: 0;
     }
-    .project-card
+    .project-card__subtitle {
+        text-align: center;
+    }
 }
