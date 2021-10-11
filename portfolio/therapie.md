@@ -1,6 +1,6 @@
 ---
 title: Was ist Verhaltens-Therapie?
-subtitle: ''
+subtitle: Mehr lesen
 date: '2021-09-12'
 sections:
   - type: image_section
