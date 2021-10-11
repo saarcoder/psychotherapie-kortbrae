@@ -4,6 +4,13 @@
     height: 350px;
 }
 
+    #ZitateUnten blockquote {
+        font-size: 36px;
+        padding: 0;
+        color: #fff;
+        text-align: center;
+    }
+
 @media screen and (min-width: 768px) {
     #ZitateUnten {
         padding: 3rem;
