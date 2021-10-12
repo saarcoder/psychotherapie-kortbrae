@@ -4,7 +4,7 @@ subtitle: Mehr lesen
 date: '2021-09-14'
 sections:
   - type: image_section
-    image: images/sunset-yoga_andrew-kalat_cc_by-nd_2-0.jpg
+    image: images/person_main.jpg
     image_alt: Kurse
     caption: 'Bild: Sunset Yoga von Andrew Kalat'
     width: wide
