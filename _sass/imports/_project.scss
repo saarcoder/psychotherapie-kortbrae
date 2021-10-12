@@ -29,6 +29,12 @@
     }
 }
 
+.text-block p {
+        hyphens: auto;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 @media only screen and (min-width: 601px) {
   .project {
     padding: 5rem 3rem 0 3rem;
