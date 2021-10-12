@@ -5,7 +5,7 @@ date: '2021-09-14'
 sections:
   - type: image_section
     image: images/person_main.jpg
-    image_alt: Kurse
+    image_alt: Profilbild Sabine Kortbrae
     width: wide
 seo:
   title: Kursplan
