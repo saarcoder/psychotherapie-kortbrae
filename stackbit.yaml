@@ -395,7 +395,7 @@ models:
       - type: string
         name: kontakt
         label: Kontaktzeile
-        description: 
+        description: Hinweis zum Kontaktformular
       - type: list
         name: actions
         label: Action buttons
