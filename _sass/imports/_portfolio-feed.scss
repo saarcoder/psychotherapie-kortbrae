@@ -40,18 +40,19 @@
   }
 
   &__subtitle {
-      display: ;
     font-size: 1.5em;
     line-height: 1.5;
     color: $color-accent;
-    border-bottom: 1px solid $color-accent;
   }
 
   &__subtitle img {
     width: 15px;
     margin-left: 5px;
   }
-
+  &__subtitle img::before {
+    content: "hallo";  
+    border-bottom: 1px solid #eddd8d;
+  }
   &__image {
     border: 0;
     display: block;
