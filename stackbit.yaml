@@ -393,7 +393,7 @@ models:
         label: Content
         description: The text content of the section
       - type: string
-        name: kontakt
+        name: contact
         label: Kontaktzeile
         description: Hinweis auf das Kontaktformular
       - type: list
