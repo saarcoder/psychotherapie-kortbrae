@@ -5,8 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: Herzlich willkommen!
-    content: >
-      "-"
+    content: "-"
     contact: In Kontakt treten
   - type: hero-card_section
     section_id: hero-card
