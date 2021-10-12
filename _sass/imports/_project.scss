@@ -21,7 +21,11 @@
     margin-left: 0;
   }
 
-   figure img {        
+  &__body p {
+
+  }
+
+  figure img {        
         max-width: 660px;
         border: 1px solid #DDD;
         float: right;
