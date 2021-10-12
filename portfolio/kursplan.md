@@ -34,6 +34,7 @@ seo:
       relativeUrl: true
 layout: project
 thumb_image: images/profil_mini.jpg
+subtitle: Mehr lesen
 ---
 Geboren 1964 in Frankfurt/M., verheiratet, 1 erwachsener Sohn.
 
