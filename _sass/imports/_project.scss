@@ -21,6 +21,10 @@
     margin-left: 0;
   }
 
+  &__body p {
+    hyphens: auto;
+  }
+
   figure img {        
         max-width: 660px;
         border: 1px solid #DDD;
