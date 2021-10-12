@@ -392,10 +392,6 @@ models:
         name: content
         label: Content
         description: The text content of the section
-      - type: string
-        name: contact
-        label: Kontaktzeile
-        description: Hinweis auf das Kontaktformular
       - type: list
         name: actions
         label: Action buttons
