@@ -45,7 +45,9 @@
     color: $color-accent;
     text-decoration: underline;
   }
-  &__subtitle firs
+  &__subtitle :first-child {
+      border-bottom: 1px solid #eddd8d;
+  }
 
   &__subtitle img {
     width: 15px;
