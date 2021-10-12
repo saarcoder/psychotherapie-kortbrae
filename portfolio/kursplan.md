@@ -6,7 +6,6 @@ sections:
   - type: image_section
     image: images/person_main.jpg
     image_alt: Kurse
-    caption: 'Bild: Sunset Yoga von Andrew Kalat'
     width: wide
 seo:
   title: Kursplan
