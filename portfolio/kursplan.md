@@ -1,7 +1,7 @@
 ---
 title: Über mich
 subtitle: Mehr lesen
-date: '2021-10-14'
+date: '2021-10-12'
 sections:
   - type: image_section
     image: images/person_main.jpg
