@@ -9,7 +9,7 @@
     {% if content_is_not_empty %}
     <div class="hero__body text-block">
       {{ section.content | markdownify }}
-      <p id="Kontakt"><a href="/Kontakt">In Kontakt treten</a></p>
+      <p id="Kontakt"><a href="/Kontakt">{{}}</a></p>
     </div>
     {% endif %}
     {% assign actions_is_not_empty = section.actions | is_not_empty %}
