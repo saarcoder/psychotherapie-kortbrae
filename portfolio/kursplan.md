@@ -1,6 +1,5 @@
 ---
 title: Über mich
-subtitle:
 date: '2021-10-12'
 sections:
   - type: image_section
