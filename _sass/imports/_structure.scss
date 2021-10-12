@@ -44,7 +44,7 @@
     padding-right: $container-padding;
   }
 
-  .site-content {
+  #grid {
     display: grid;
     grid-template-columns: 2fr 1fr;
   }
