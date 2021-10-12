@@ -392,6 +392,8 @@ models:
         name: content
         label: Content
         description: The text content of the section
+      - type: string
+        name: kontakt
       - type: list
         name: actions
         label: Action buttons
