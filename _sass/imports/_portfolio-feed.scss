@@ -44,7 +44,7 @@
     line-height: 1.5;
     color: $color-accent;
   }
-  &__subtitle :nth-child(1) {
+  &__subtitle #text {
       border-bottom: 1px solid #eddd8d;
   }
 
