@@ -10,7 +10,7 @@
     <div class="hero__body text-block">
       {{ section.content | markdownify }}
       {% endif %}
-      
+      {% }
       <p id="Kontakt"><a href="/">{{ section.contact }}</a></p>
     </div>
     {% assign actions_is_not_empty = section.actions | is_not_empty %}
