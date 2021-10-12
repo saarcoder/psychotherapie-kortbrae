@@ -44,14 +44,15 @@
     line-height: 1.5;
     color: $color-accent;
   }
+  &__subtitle ::first-line{
+  }
 
   &__subtitle img {
     width: 15px;
     margin-left: 5px;
   }
-  &__subtitle img::before {
-    content: "hallo";  
-    border-bottom: 1px solid #eddd8d;
+  &__subitle img ::before {
+      border-bottom: 1px solid #eddd8d;
   }
   &__image {
     border: 0;
