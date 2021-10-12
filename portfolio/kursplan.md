@@ -37,4 +37,38 @@ seo:
 layout: project
 thumb_image: images/profil_mini.jpg
 ---
+Geboren 1964 in Frankfurt/M., verheiratet, 1 erwachsener Sohn.
 
+1983-1985 Berufsausbildung und 1991 Zusatzqualifikation im kaufmännischen Bereich.
+
+Insgesamt 18 Jahre in der Wirtschaft tätig.
+
+2001-2007 Psychologiestudium in Frankfurt/M. mit Diplomabschluss.
+
+Im Anschluss 3-jährige verhaltenstherapeutische Ausbildung und 2010 Approbation als Psychologische Psychotherapeutin für Erwachsene.
+
+Seit April 2011 in eigener Praxis tätig.
+
+## Meine Qualifikation
+
+Approbation als Psychologische Psychotherapeutin durch die Regierung von Hessen
+
+Eingetragen in das Arztregister der Kassenärztlichen Vereinigung Hessen
+
+Mitglied der Psychotherapeutenkammer Hessen
+
+## Qualitätssicherung
+
+Zur Qualitätssicherung finden regelmäßig fachliche Supervisionen durch erfahrene verhaltenstherapeutische Supervisoren statt. Außerdem regelmäßige Teilnahme an Fortbildungen sowie einer Intervisionsgruppe.
+
+## Fortbildungen
+
+Vertiefung der Kenntnisse der Praxis der kognitiven Verhaltenstherapie
+
+Hypnotherapieausbildung nach Erickson
+
+Weiterbildung in Schematherapie
+
+Weiterbildung in Imagery Rescripting & Reprocessing Therapy (IRRT)
+
+Burnout-Coach (zertifiziert)
