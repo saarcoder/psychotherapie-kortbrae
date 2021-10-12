@@ -40,14 +40,11 @@
   }
 
   &__subtitle {
-    display: inline;
-    margin: auto;
+      display: ;
     font-size: 1.5em;
     line-height: 1.5;
     color: $color-accent;
     border-bottom: 1px solid $color-accent;
-    padding-bottom: 2px;
-
   }
 
   &__subtitle img {
