@@ -306,13 +306,17 @@ models:
         label: Title
         description: The title of the project
         required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the project title
       - type: date
         name: date
         label: Date
         required: true
       - type: image
-        name: main-image
-        label: Profilbild rechts
+        name: thumb_image
+        label: Thumbnail image
         description: The image shown in the praxis grid
       - type: string
         name: thumb_image_alt
