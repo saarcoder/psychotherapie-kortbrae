@@ -75,6 +75,9 @@
   .centerRight {
       grid-area: centerRight;
   }
+  .bottom {
+      grid-area: bottom;
+  }
 }
 
 @media only screen and (min-width: 601px) {
