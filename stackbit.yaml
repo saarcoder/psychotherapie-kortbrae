@@ -191,7 +191,7 @@ models:
     urlPath: /coaching
     label: Coaching
     layout: blog
-    file: specials/index.md
+    file: coacing/index.md
     hideContent: true
     singleInstance: true
     fields:
