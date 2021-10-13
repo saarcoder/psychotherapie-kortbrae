@@ -5,7 +5,7 @@ main-image: images/coaching_klein.jpg
 main-image_alt: freundliche Therapeutin
 quote: >-
   Wenn Sie immer nur das tun, was Sie bisher getan haben, werden Sie auch immer nur das bekommen, was Sie bisher bekommen haben.
-author: 'Epiktet, 1. Jhd. n. Chr.'
+author: 'Henry Ford'
 more-content: >
   So wird u.a. an einer Veränderung der Perspektiven sowie der Einstellungen und
   Handlungsmöglichkeiten gearbeitet. Hierbei sind die Hilfe zur Selbsthilfe,
