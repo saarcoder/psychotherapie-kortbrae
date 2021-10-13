@@ -3,7 +3,7 @@ title: Therapie
 date: '2021-10-10'
 main-image: images/therapie_klein.jpg
 main-image_alt: Therapeutin im Gespräch
-quote: 'Der ziellose Mensch erleidet sein Schicksal, der zielbewusste gestaltet es.'
+quote: 'Nicht die Dinge beunruhigen die Menschen, sondern die Vorstellung von den Dingen.'
 author: Immanuel Kant
 more-content: |
   *   Lebenskrisen, privat und/oder beruflich
