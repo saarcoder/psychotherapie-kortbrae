@@ -312,7 +312,7 @@ models:
         required: true
       - type: image
         name: main-image
-        label: Thumbnail image
+        label: Profilbild rechts
         description: The image shown in the praxis grid
       - type: string
         name: thumb_image_alt
