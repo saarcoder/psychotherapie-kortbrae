@@ -16,7 +16,7 @@ Mitglied der Psychotherapeutenkammer Hessen
 Qualitätssicherung
 Zur Qualitätssicherung finden regelmäßig fachliche Supervisionen durch erfahrene verhaltenstherapeutische Supervisoren statt. Außerdem regelmäßige Teilnahme an Fortbildungen sowie einer Intervisionsgruppe.
 
-## Fortbildungen
+##Fortbildungen
 Vertiefung der Kenntnisse der Praxis der kognitiven Verhaltenstherapie
 
 Hypnotherapieausbildung nach Erickson
