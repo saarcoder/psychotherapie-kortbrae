@@ -223,7 +223,7 @@ models:
           - stackbit_page_meta
   portfolio:
     type: page
-    urlPath: /portfolio
+    urlPath: /praxis
     label: Portfolio
     layout: portfolio
     file: portfolio/index.md
