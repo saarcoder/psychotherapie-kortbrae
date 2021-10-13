@@ -4,19 +4,12 @@ date: '2021-10-11'
 main-image: images/angebot_klein.jpg
 main-image_alt: Zwei Hände umfassen eine Hand
 quote: 'Der ziellose Mensch erleidet sein Schicksal, der zielbewusste gestaltet es.'
-author: 'Immanuel Kant'
+author: Immanuel Kant
 more-content: >
-  ## Meine Qualifikation
-
-
-  Approbation als Psychologische Psychotherapeutin durch die Regierung von
-  Hessen
-
-
-  Eingetragen in das Arztregister der Kassenärztlichen Vereinigung Hessen
-
-
-  Mitglied der Psychotherapeutenkammer Hessen
+  *   *   Lebenskrisen, privat und/oder beruflich*   Beziehungskrisen sowie
+  Probleme bei Trennung (Einzeltherapie)*   Stress und Überforderung*   Soziale
+  Unsicherheit, Selbstwertprobleme*   Depression*   Zwänge*   Psychologische
+  Beratung und Coaching
 bottom-text: >
   ## Qualitätssicherung
 
