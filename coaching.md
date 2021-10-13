@@ -4,7 +4,7 @@ date: '2021-10-09'
 main-image: images/coaching_klein.jpg
 main-image_alt: freundliche Therapeutin
 quote: 
-bottom-text: 
+bottom-text: ''
 sections:
   - type: image_section
     width: wide
