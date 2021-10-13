@@ -25,7 +25,7 @@
       display: grid;
       grid-template-areas: 
         "left left right"
-        ""
+        "left right right"
       ;
       grid-template-columns: 2fr 1fr;
   }
