@@ -1,6 +1,6 @@
 ---
 title: Mein Angebot
-date: '2021-10-12'
+date: '2021-10-13'
 main-image: images/person_main.jpg
 main-image_alt: Profilbild Sabine Kortbrae
 quote: 'Nur wer sein Ziel kennt, findet den Weg.'
