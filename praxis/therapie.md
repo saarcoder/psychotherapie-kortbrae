@@ -4,7 +4,7 @@ date: '2021-10-10'
 main-image: images/therapie_klein.jpg
 main-image_alt: Therapeutin im Gespräch
 quote: 'Nicht die Dinge beunruhigen die Menschen, sondern die Vorstellung von den Dingen.'
-author: Immanuel Kant
+author: Epiktet, 1. Jhd. n. Chr.
 more-content: |
   *   Lebenskrisen, privat und/oder beruflich
 
