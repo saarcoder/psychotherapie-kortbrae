@@ -16,10 +16,7 @@ more-content: >
 
   Grundlage für eine erfolgreiche gemeinsame Arbeit ist eine von Empathie und
   Respekt getragene therapeutische Beziehung, wobei es mir sehr wichtig ist die
-  Therapie offen und transparent zu gestalten. In wöchentlichen Sitzungen werden
-  Lösungswege und Techniken geübt, die sie dabei unterstützen, das Problem
-  selbständig zu bewältigen, denn das Ziel ist es immer, dass sie ihren Weg
-  möglichst rasch wieder selbst gehen.
+  Therapie offen und transparent zu gestalten.
 bottom-text: >
   Das Verfahren der kognitiven Verhaltenstherapie zählt zu den zentralen
   Therapierichtungen und wird von allen Krankenversicherungen (gesetzlich,
