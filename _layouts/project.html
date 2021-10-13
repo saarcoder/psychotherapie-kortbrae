@@ -31,7 +31,7 @@ layout: body
             {% endif %}
         </div>
         <div id="left">
-            {% assign quote_is_not_empty = section.quote | is_not_empty %}
+            {% assign quote_is_not_empty = page.quote | is_not_empty %}
             {% if quote_is_not_empty %}
             <blockquote id="tvZitate">{{ section.quote }}</blockquote>
             {% endif %}
