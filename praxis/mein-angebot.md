@@ -32,7 +32,7 @@ more-content: |
 
   *   Psychologische Beratung und Coaching
 bottom-text: |
-  Mein Schwerpunkt liegt auf der Behandlung von:
+  **Mein Schwerpunkt liegt auf der Behandlung von:**
 
   *   Burnout, Erschöpfungsdepression
 
