@@ -3,7 +3,7 @@ title: Coaching
 date: '2021-10-09'
 main-image: images/coaching_klein.jpg
 main-image_alt: freundliche Therapeutin
-quote: 
+quote: ''
 bottom-text: ''
 sections:
   - type: image_section
