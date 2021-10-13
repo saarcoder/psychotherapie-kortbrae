@@ -10,11 +10,11 @@ more-content:  >-
   Approbation als Psychologische Psychotherapeutin durch die Regierung von Hessen
   
   Eingetragen in das Arztregister der Kassenärztlichen Vereinigung Hessen
-
-Mitglied der Psychotherapeutenkammer Hessen
-
-##Qualitätssicherung
-Zur Qualitätssicherung finden regelmäßig fachliche Supervisionen durch erfahrene verhaltenstherapeutische Supervisoren statt. Außerdem regelmäßige Teilnahme an Fortbildungen sowie einer Intervisionsgruppe.
+  
+  Mitglied der Psychotherapeutenkammer Hessen
+  
+  ##Qualitätssicherung
+  Zur Qualitätssicherung finden regelmäßig fachliche Supervisionen durch erfahrene verhaltenstherapeutische Supervisoren statt. Außerdem regelmäßige Teilnahme an Fortbildungen sowie einer Intervisionsgruppe.
 
 ##Fortbildungen
 Vertiefung der Kenntnisse der Praxis der kognitiven Verhaltenstherapie
