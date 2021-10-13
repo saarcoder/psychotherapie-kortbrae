@@ -335,7 +335,7 @@ models:
         description: Urheber des Textzitats
       - type: markdown
         name: bottom-text
-        label: Unterer Text
+        label: Unterer Textteil
       - type: list
         name: sections
         label: Sections
