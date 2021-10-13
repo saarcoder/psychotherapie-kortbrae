@@ -1,5 +1,5 @@
 ---
-title: Über mich
+title: Mein Angebot
 date: '2021-10-12'
 main-image: images/person_main.jpg
 main-image_alt: Profilbild Sabine Kortbrae
