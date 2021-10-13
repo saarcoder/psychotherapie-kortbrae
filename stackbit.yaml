@@ -325,6 +325,10 @@ models:
       - type: markdown
         name: more-content
         label: Mehr
+      - type: string
+        name: quote
+        label: Zitat
+        description: Zitatext für den blauen Kasten
       - type: list
         name: sections
         label: Sections
