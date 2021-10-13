@@ -4,7 +4,7 @@ subtitle: 'Gutscheine, Einladungen und Ankündigungen'
 hide_title: false
 col_number: three
 seo:
-  title: Specials
+  title: Coaching
   description: Dies ist die Specials-Seite
   extra:
     - name: 'og:type'
