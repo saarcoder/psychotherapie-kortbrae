@@ -176,7 +176,13 @@
         padding-left: 0;
         padding-right: 0;
     }
-    #
+    #contact-form .section .cell {
+        
+  &__content .cell {
+      padding-left: 1rem;
+      padding-right: 1rem;
+  }
+    }
     .project-card__title {
         text-align: center;
         letter-spacing: 0;
