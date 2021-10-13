@@ -53,7 +53,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Kursplan
+      value: Mein Angebot
       keyName: property
     - name: 'og:description'
       value: Übersicht über mein therapeutisches Angebot
