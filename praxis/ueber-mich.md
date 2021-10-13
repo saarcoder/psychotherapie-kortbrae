@@ -25,24 +25,6 @@ more-content: >
   Zur Qualitätssicherung finden regelmäßig fachliche Supervisionen durch
   erfahrene verhaltenstherapeutische Supervisoren statt. Außerdem regelmäßige
   Teilnahme an Fortbildungen sowie einer Intervisionsgruppe.
-
-
-  ## Fortbildungen
-
-
-  Vertiefung der Kenntnisse der Praxis der kognitiven Verhaltenstherapie
-
-
-  Hypnotherapieausbildung nach Erickson
-
-
-  Weiterbildung in Schematherapie
-
-
-  Weiterbildung in Imagery Rescripting & Reprocessing Therapy (IRRT)
-
-
-  Burnout-Coach (zertifiziert)
 bottom-text: ''
 sections:
   - type: image_section
