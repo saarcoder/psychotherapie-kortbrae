@@ -1,41 +1,88 @@
 ---
-title: Angebot in Krisen
-date: '2021-09-13'
+title: Über mich
+date: '2021-10-12'
+main-image: images/person_main.jpg
+main-image_alt: Profilbild Sabine Kortbrae
+quote: 'Nur wer sein Ziel kennt, findet den Weg.'
+author: 'Laozi, chin. Philosoph'
+more-content: >
+  ## Meine Qualifikation
+
+
+  Approbation als Psychologische Psychotherapeutin durch die Regierung von
+  Hessen
+
+
+  Eingetragen in das Arztregister der Kassenärztlichen Vereinigung Hessen
+
+
+  Mitglied der Psychotherapeutenkammer Hessen
+bottom-text: >
+  ## Qualitätssicherung
+
+
+  Zur Qualitätssicherung finden regelmäßig fachliche Supervisionen durch
+  erfahrene verhaltenstherapeutische Supervisoren statt. Außerdem regelmäßige
+  Teilnahme an Fortbildungen sowie einer Intervisionsgruppe.
+
+
+  ## Fortbildungen
+
+
+  Vertiefung der Kenntnisse der Praxis der kognitiven Verhaltenstherapie
+
+
+  Hypnotherapieausbildung nach Erickson
+
+
+  Weiterbildung in Schematherapie
+
+
+  Weiterbildung in Imagery Rescripting & Reprocessing Therapy (IRRT)
+
+
+  Burnout-Coach (zertifiziert)
 sections:
   - type: image_section
-    image: images/gutschein.jpg
-    image_alt: Kurse
-    caption: ''
     width: wide
-  - type: text_section
-    content: ''
 seo:
-  title: Gutschein
-  description: Freude verschenken mit einem Yoga-Gutschein
+  title: Kursplan
+  description: Übersicht über meine aktuellen Kurse
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Gutschein
+      value: Kursplan
       keyName: property
     - name: 'og:description'
-      value: Freude verschenken mit einem Yoga-Gutschein
+      value: Übersicht über meine aktuellen Kurse
       keyName: property
     - name: 'og:image'
-      value: images/gutschein.jpg
+      value: images/01.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Gutschein
+      value: Kursplan
     - name: 'twitter:description'
-      value: Freude verschenken mit einem Yoga-Gutschein
+      value: Übersicht über meine aktuellen Kurse
     - name: 'twitter:image'
-      value: images/gutschein.jpg
+      value: images/01.jpg
       relativeUrl: true
 layout: project
-thumb_image: images/angebot_mini.jpg
+thumb_image: images/profil_mini.jpg
 subtitle: Mehr lesen
 ---
+Geboren 1964 in Frankfurt/M., verheiratet, 1 erwachsener Sohn.
+
+1983-1985 Berufsausbildung und 1991 Zusatzqualifikation im kaufmännischen Bereich.
+
+Insgesamt 18 Jahre in der Wirtschaft tätig.
+
+2001-2007 Psychologiestudium in Frankfurt/M. mit Diplomabschluss.
+
+Im Anschluss 3-jährige verhaltenstherapeutische Ausbildung und 2010 Approbation als Psychologische Psychotherapeutin für Erwachsene.
+
+Seit April 2011 in eigener Praxis tätig.
