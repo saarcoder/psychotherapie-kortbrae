@@ -1,5 +1,5 @@
 ---
-title: Specials
+title: Coaching
 subtitle: 'Gutscheine, Einladungen und Ankündigungen'
 hide_title: false
 col_number: three
