@@ -49,5 +49,6 @@ more-content: >
 
   Man kann in verschiedensten Lebensbereichen an einen Punkt kommen, an dem
   Coaching und psychologische Beratung sehr hilfreich sein können, z.B. bei:
+author: Henry Ford
 ---
 Nicht jedes belastende Problem erfordert eine Psychotherapie und hier können psychologische Beratungsgespräche in schwierigen Lebensphasen eine sinnvolle Alternative sein. Diese werden häufig auch als Coaching bezeichnet. Als approbierte Verhaltenstherapeutin bin ich Fachfrau in der Unterstützung von Veränderungsprozessen.
