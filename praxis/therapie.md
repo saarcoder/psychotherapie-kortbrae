@@ -20,14 +20,11 @@ more-content: >
   Lösungswege und Techniken geübt, die sie dabei unterstützen, das Problem
   selbständig zu bewältigen, denn das Ziel ist es immer, dass sie ihren Weg
   möglichst rasch wieder selbst gehen.
-bottom-text: |
-  **Mein Schwerpunkt liegt auf der Behandlung von:**
-
-  *   Burnout, Erschöpfungsdepression
-
-  <!---->
-
-  *   Ängsten, Phobien, Panikattacken
+bottom-text: >
+  Das Verfahren der kognitiven Verhaltenstherapie zählt zu den zentralen
+  Therapierichtungen und wird von allen Krankenversicherungen (gesetzlich,
+  privat) anerkannt. Sie wird je nach Problem in der Regel als Kurzzeittherapie
+  (12 -24 Stunden) oder als Langzeittherapie (bis 60 Stunden) durchgeführt.
 sections:
   - type: image_section
     width: wide
