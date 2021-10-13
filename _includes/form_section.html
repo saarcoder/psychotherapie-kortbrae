@@ -29,7 +29,7 @@
         <form name="{{ section.form_id }}" id="{{ section.form_id }}" {% assign form_action_is_not_empty = section.form_action | is_not_empty %}{% if form_action_is_not_empty %}
           action="{{ section.form_action }}" {% endif %}method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
           <div class="screen-reader-text">
-            <label id="{{ section.form_id }}-bot-label">Don't fill this out if you're human: <input
+            <label id="{{ section.form_id }}-bot-label">Nicht ausfüllen, wenn Sie ein Mensch sind: <input
                 aria-labelledby="{{ section.form_id }}-bot-label" name="bot-field" /></label>
           </div>
           <input type="hidden" aria-label="{{ section.form_id }}-name" name="form-name" value="{{ section.form_id }}" />
