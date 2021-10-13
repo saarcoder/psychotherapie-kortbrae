@@ -2,7 +2,7 @@
 title: Therapie
 date: '2021-10-10'
 main-image: images/therapie_klein.jpg
-main-image_alt: Zwei Hände umfassen eine Hand
+main-image_alt: Therapeutin im Gespräch
 quote: 'Der ziellose Mensch erleidet sein Schicksal, der zielbewusste gestaltet es.'
 author: Immanuel Kant
 more-content: |
