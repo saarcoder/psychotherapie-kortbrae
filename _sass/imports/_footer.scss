@@ -63,7 +63,7 @@
   .site-footer {
     padding: 0;
     width: 100%;
-    background: linear-gradient(45deg, #$color-accent, transparent);
+    background: linear-gradient(45deg, $color-accent, transparent);
 
     &__inside {
       grid-template-columns: .5fr 1fr 1fr;
