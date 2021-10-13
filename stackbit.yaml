@@ -188,7 +188,7 @@ models:
           - stackbit_page_meta
   blog:
     type: page
-    urlPath: /specials
+    urlPath: /coaching
     label: Specials
     layout: blog
     file: specials/index.md
