@@ -1,126 +1,65 @@
 ---
-title: Coaching
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+title: Therapie
+date: '2021-10-10'
+main-image: images/therapie_klein.jpg
+main-image_alt: Therapeutin im Gespräch
+quote: >-
+  Nicht die Dinge beunruhigen die Menschen, sondern die Vorstellung von den
+  Dingen.
+author: 'Epiktet, 1. Jhd. n. Chr.'
+more-content: >
+  So wird u.a. an einer Veränderung der Perspektiven sowie der Einstellungen und
+  Handlungsmöglichkeiten gearbeitet. Hierbei sind die Hilfe zur Selbsthilfe,
+  eine Stärkung der Selbstkontrolle sowie Selbstmanagement wichtige Prinzipien,
+  der Aufbau eines positiven Selbstbildes und Lebenskonzepts wichtige Pfeiler.
+
+
+  Grundlage für eine erfolgreiche gemeinsame Arbeit ist eine von Empathie und
+  Respekt getragene therapeutische Beziehung, wobei es mir sehr wichtig ist die
+  Therapie offen und transparent zu gestalten.
+
+
+  In wöchentlichen Sitzungen werden Lösungswege und Techniken geübt, die sie
+  dabei unterstützen, das Problem selbständig zu bewältigen, denn das Ziel ist
+  es immer, dass sie ihren Weg möglichst rasch wieder selbst gehen.
+bottom-text: >
+  Das Verfahren der kognitiven Verhaltenstherapie zählt zu den zentralen
+  Therapierichtungen und wird von allen Krankenversicherungen (gesetzlich,
+  privat) anerkannt. Sie wird je nach Problem in der Regel als Kurzzeittherapie
+  (12 -24 Stunden) oder als Langzeittherapie (bis 60 Stunden) durchgeführt.
+sections:
+  - type: image_section
+    width: wide
 seo:
-  title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  title: Mein Angebot
+  description: Übersicht über mein therapeutisches Angebot
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: Mein Angebot
       keyName: property
     - name: 'og:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+      value: Übersicht über mein therapeutisches Angebot
       keyName: property
+    - name: 'og:image'
+      value: images/therapie_klein.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
-      value: summary
+      value: summary_large_image
     - name: 'twitter:title'
-      value: Theme Style Guide
+      value: Mein Angebot
     - name: 'twitter:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+      value: Übersicht über mein therapeutisches Angebot
+    - name: 'twitter:image'
+      value: images/therapie_klein.jpg
+      relativeUrl: true
 layout: project
+thumb_image: images/therapie_mini.jpg
+subtitle: Mehr lesen
 ---
+Ich behandle in meiner Praxis auf Grundlage der kognitiven Verhaltenstherapie. Ziel dabei ist es, dass der Patient im Verlauf der Therapie zum eigenen Experten wird. So lernt er zunächst zu erkennen und zu verstehen wie sein Problem entstanden ist und welche Faktoren aktuell dafür verantwortlich sind, dass das Problem bestehen bleibt.
 
-This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
-
-# This is an H1
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
-
-## This is an H2
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-### This is an H3
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-#### This is an H4
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
-
-## Quoting
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.
->
->&mdash; Scott Adams
-
-Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-## Unordered and Ordered Lists
-
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
-
-***
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-```
-let sequence = [1, 1, 2, 3, 5, 8, 13];
-for (let i = 0; i < sequence.length; i++) {
-  console.log(sequence[i]);
-}
-```
-
-## Inline Elements
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **_asterisks and underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-Inline `code with back-ticks around` it.
-
-This is <mark>marked or highlighted</mark> text.
-
-This is [an example](http://example.com) link.
-
-## Tables
-
-<table>
-    <caption>Table with thead, tfoot, and tbody</caption>
-  <thead>
-    <tr>
-      <th>Header content 1</th>
-      <th>Header content 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Body content 1</td>
-      <td>Body content 2</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Footer content 1</td>
-      <td>Footer content 2</td>
-    </tr>
-  </tfoot>
-</table>
+An eine detaillierte Analyse schließen sich die Erarbeitung konkreter Ziele und deren Umsetzungsmöglichkeiten an, wobei auch länger zurückliegende prägende Ereignisse und Erfahrungen Berücksichtigung finden. 
