@@ -226,7 +226,7 @@ models:
     urlPath: /praxis
     label: Portfolio
     layout: portfolio
-    file: portfolio/index.md
+    file: praxis/index.md
     hideContent: true
     singleInstance: true
     fields:
