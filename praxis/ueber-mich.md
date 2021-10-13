@@ -43,6 +43,7 @@ more-content: >
 
 
   Burnout-Coach (zertifiziert)
+bottom-text:
 sections:
   - type: image_section
     width: wide
