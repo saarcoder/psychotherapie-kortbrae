@@ -21,14 +21,6 @@
     margin-left: 0;
   }
 
-  .subgrid {
-      display: grid;
-      grid-template-areas: 
-        "left left right"
-        "left right right"
-        "left left left";
-  }
-
   .text-block {
       margin-top: -1rem;
   }
