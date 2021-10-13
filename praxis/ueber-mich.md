@@ -5,7 +5,7 @@ sections:
   - type: image_section
     image: images/person_main.jpg
     image_alt: Profilbild Sabine Kortbrae
-    quote: 
+    quote: Nur wer sein Ziel kennt, findet den Weg.
     width: wide
 seo:
   title: Kursplan
