@@ -1,5 +1,5 @@
 ---
-title: Mein Angebot
+title: Therapie
 date: '2021-10-11'
 main-image: images/angebot_klein.jpg
 main-image_alt: Zwei Hände umfassen eine Hand
