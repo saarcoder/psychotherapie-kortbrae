@@ -324,7 +324,7 @@ models:
         description: The alt text of the thumbnail image
       - type: markdown
         name: more-content
-        label: Content
+        label: 
       - type: list
         name: sections
         label: Sections
