@@ -22,7 +22,7 @@
             },
             {
                 "label": "Mein Angebot",
-                "url": "/philosophie",
+                "url": "/portfolio/",
                 "style": "link",
                 "icon": "lotos",
                 "new_window": false,
