@@ -330,7 +330,7 @@ models:
           - stackbit_page_meta
   project:
     type: page
-    urlPath: '/portfolio/{slug}'
+    urlPath: '/praxis/{slug}'
     label: Project
     layout: project
     folder: portfolio
