@@ -9,7 +9,7 @@ dataDir: _data
 pagesDir: ''
 pageLayoutKey: layout
 logicFields:
-  - portfolio_section.projects_number
+  - praxis_section.projects_number
   - posts_section.posts_number
 models:
   config:
@@ -178,7 +178,7 @@ models:
             - content_section
             - cta_section
             - grid_section
-            - portfolio_section
+            - praxis_section
             - posts_section
             - testimonials_section
             - form_section
@@ -221,11 +221,11 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  portfolio:
+  praxis:
     type: page
     urlPath: /praxis
-    label: Portfolio
-    layout: portfolio
+    label: praxis
+    layout: praxis
     file: praxis/index.md
     hideContent: true
     singleInstance: true
@@ -246,7 +246,7 @@ models:
       - type: enum
         name: layout_style
         label: Layout-Stil
-        description: The style of the portfolio layout
+        description: The style of the praxis layout
         options:
           - mosaic
           - tiles
@@ -352,7 +352,7 @@ models:
       - type: image
         name: thumb_image
         label: Thumbnail image
-        description: The image shown in the portfolio grid
+        description: The image shown in the praxis grid
       - type: string
         name: thumb_image_alt
         label: Thumbnail image alt text
@@ -561,9 +561,9 @@ models:
           type: model
           models:
             - action
-  portfolio_section:
+  praxis_section:
     type: object
-    label: Portfolio
+    label: praxis
     extends:
       - section
     fields:
