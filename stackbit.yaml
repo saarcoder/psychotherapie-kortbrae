@@ -668,7 +668,7 @@ models:
       - type: markdown
         name: add-text
         label: Weitere Infos
-        description: zusätzlicher Text unter dem Formular
+        description: zusätzlicher Text unter dem Kontakt-Formular
       - type: string
         name: form_id
         label: Form ID
