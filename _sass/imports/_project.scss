@@ -2,7 +2,9 @@
   background: $color-bkg-neutral;
   padding: 2rem 1rem;
 
-  &__header, 
+  &__header, &__title {
+      display: inline-block;
+  }
   &__title {
     margin: 0;
   }
