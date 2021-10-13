@@ -5,11 +5,32 @@ main-image: images/angebot_klein.jpg
 main-image_alt: Zwei Hände umfassen eine Hand
 quote: 'Der ziellose Mensch erleidet sein Schicksal, der zielbewusste gestaltet es.'
 author: Immanuel Kant
-more-content: >
-  *   *   Lebenskrisen, privat und/oder beruflich*   Beziehungskrisen sowie
-  Probleme bei Trennung (Einzeltherapie)*   Stress und Überforderung*   Soziale
-  Unsicherheit, Selbstwertprobleme*   Depression*   Zwänge*   Psychologische
-  Beratung und Coaching
+more-content: |
+  *   Lebenskrisen, privat und/oder beruflich
+
+  <!---->
+
+  *   Beziehungskrisen sowie Probleme bei Trennung (Einzeltherapie)
+
+  <!---->
+
+  *   Stress und Überforderung
+
+  <!---->
+
+  *   Soziale Unsicherheit, Selbstwertprobleme
+
+  <!---->
+
+  *   Depression
+
+  <!---->
+
+  *   Zwänge
+
+  <!---->
+
+  *   Psychologische Beratung und Coaching
 bottom-text: >
   ## Qualitätssicherung
 
