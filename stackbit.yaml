@@ -323,7 +323,7 @@ models:
         label: Thumbnail image alt text
         description: The alt text of the thumbnail image
       - type: markdown
-        name: content
+        name: more-content
         label: Content
       - type: list
         name: sections
