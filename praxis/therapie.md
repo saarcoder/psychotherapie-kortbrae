@@ -44,7 +44,7 @@ seo:
       value: Übersicht über mein therapeutisches Angebot
       keyName: property
     - name: 'og:image'
-      value: images/angebot_klein.jpg
+      value: images/therapie_klein.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
