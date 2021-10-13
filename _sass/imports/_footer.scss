@@ -37,12 +37,12 @@
         text-align: center;
     }
     :hover {
-        color: #58efff;
+        
     }
   }
 
   &__copyright:hover, &__phone:hover, &__email:hover, &__link:hover {
-      
+color: #58efff;
   }
 
   &__info {
