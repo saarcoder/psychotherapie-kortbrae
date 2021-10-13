@@ -19,7 +19,7 @@ sections:
       Eingetragen im Psychotherapeutenregister der Kassenärztlichen Vereinigung Hessen, Nr. 89142
       ## Anfahrt mit öffentlichen Verkehrsmitteln
       **S-Bahn**  Hauptwache
-    U-Bahn  Grüneburgweg
+      **U-Bahn  Grüneburgweg
     Anfahrt mit dem Auto
     Parkhaus Turmcenter 15 Min. Fußweg
 
