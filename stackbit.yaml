@@ -328,7 +328,7 @@ models:
       - type: string
         name: quote
         label: Zitat
-        description: Zitatext für den blauen Kasten
+        description: Zitatext für den blauen Baustein-Kasten
       - type: list
         name: sections
         label: Sections
