@@ -5,6 +5,7 @@ sections:
   - type: image_section
     image: images/person_main.jpg
     image_alt: Profilbild Sabine Kortbrae
+    
     width: wide
 seo:
   title: Kursplan
