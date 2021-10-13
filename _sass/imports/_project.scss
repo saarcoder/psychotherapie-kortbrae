@@ -2,6 +2,10 @@
   background: $color-bkg-neutral;
   padding-bottom: 5em;
 
+  &__header {
+    margin-bottom: 2em;
+  }
+
   &__title {
     margin: 0;
   }
