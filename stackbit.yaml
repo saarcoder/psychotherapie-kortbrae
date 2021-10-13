@@ -655,7 +655,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Titel
+        label: Überschrift
         description
       - type: string
         name: subtitle
