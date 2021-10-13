@@ -57,7 +57,7 @@ seo:
       value: images/angebot_klein.jpg
       relativeUrl: true
 layout: project
-thumb_image: images/profil_mini.jpg
+thumb_image: images/therapie_mini.jpg
 subtitle: Mehr lesen
 ---
 Ich behandle in meiner Praxis auf Grundlage der kognitiven Verhaltenstherapie. Ziel dabei ist es, dass der Patient im Verlauf der Therapie zum eigenen Experten wird. So lernt er zunächst zu erkennen und zu verstehen wie sein Problem entstanden ist und welche Faktoren aktuell dafür verantwortlich sind, dass das Problem bestehen bleibt.
