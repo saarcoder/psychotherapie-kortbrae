@@ -189,7 +189,7 @@ models:
   blog:
     type: page
     urlPath: /coaching
-    label: Specials
+    label: Coaching
     layout: blog
     file: specials/index.md
     hideContent: true
