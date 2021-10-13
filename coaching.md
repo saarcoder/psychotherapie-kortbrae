@@ -4,8 +4,7 @@ date: '2021-10-09'
 main-image: images/coaching_klein.jpg
 main-image_alt: freundliche Therapeutin
 quote: >-
-  Nicht die Dinge beunruhigen die Menschen, sondern die Vorstellung von den
-  Dingen.
+  Wenn Sie immer nur das tun, was Sie bisher getan haben, werden Sie auch immer nur das bekommen, was Sie bisher bekommen haben.
 author: 'Epiktet, 1. Jhd. n. Chr.'
 more-content: >
   So wird u.a. an einer Veränderung der Perspektiven sowie der Einstellungen und
