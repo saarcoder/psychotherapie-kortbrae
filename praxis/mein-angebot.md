@@ -65,7 +65,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Kursplan
+      value: Mein Angebot
     - name: 'twitter:description'
       value: Übersicht über mein therapeutisches Angebot
     - name: 'twitter:image'
