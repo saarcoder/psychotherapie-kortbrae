@@ -5,13 +5,13 @@ hide_title: false
 col_number: three
 seo:
   title: Coaching
-  description: Dies ist die Specials-Seite
+  description: Dies ist die Coaching-Seite
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Specials
+      value: Coaching
       keyName: property
     - name: 'og:description'
       value: This is the journal page
@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Specials
+      value: Coaching
     - name: 'twitter:description'
       value: This is the journal page
     - name: 'twitter:image'
