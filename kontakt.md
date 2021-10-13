@@ -5,6 +5,7 @@ sections:
   - type: form_section
     section_id: contact-form
     title: Kontakt
+    subtitle: 
     content: "Kontaktiere mich per Telefon: 0173 360 666 5 oder per E-Mail mit dem Formular hier auf der Seite!\n\nAchtung: Meine Kurse finden an unterschiedlichen Orten statt! Bitte informiere dich im\_[KURSPLAN](/portfolio/kursplan)\_über den Ort.\n\n### Mein Studio\n\n#### Raum für Begegnung\n\nScheidter Str. 62<br>\n66123 Saarbrücken<br>\n0173-360 666 5<br>\n[Anfahrt →](https://goo.gl/maps/duq43J3zudk)\n\n#### Evangelische Familienbildungsstätte\n\nMainzer Str. 269<br>\n66121 Saarbrücken<br>\n[Anfahrt →](https://goo.gl/maps/83xotMyjPzG2)\n"
     form_id: contactForm
     form_action: /thank-you
