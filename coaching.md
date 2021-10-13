@@ -44,7 +44,7 @@ seo:
       value: Übersicht über mein therapeutisches Angebot
       keyName: property
     - name: 'og:image'
-      value: images/therapie_klein.jpg
+      value: images/coaching_klein.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -54,10 +54,10 @@ seo:
     - name: 'twitter:description'
       value: Übersicht über mein therapeutisches Angebot
     - name: 'twitter:image'
-      value: images/therapie_klein.jpg
+      value: images/coaching_klein.jpg
       relativeUrl: true
 layout: project
-thumb_image: images/therapie_mini.jpg
+thumb_image: images/coaching_klein.jpg
 subtitle: Mehr lesen
 ---
 Nicht jedes belastende Problem erfordert eine Psychotherapie und hier können psychologische Beratungsgespräche in schwierigen Lebensphasen eine sinnvolle Alternative sein. Diese werden häufig auch als Coaching bezeichnet. Als approbierte Verhaltenstherapeutin bin ich Fachfrau in der Unterstützung von Veränderungsprozessen.
