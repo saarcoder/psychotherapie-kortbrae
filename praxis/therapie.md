@@ -54,7 +54,7 @@ seo:
     - name: 'twitter:description'
       value: Übersicht über mein therapeutisches Angebot
     - name: 'twitter:image'
-      value: images/t_klein.jpg
+      value: images/therapie_klein.jpg
       relativeUrl: true
 layout: project
 thumb_image: images/therapie_mini.jpg
