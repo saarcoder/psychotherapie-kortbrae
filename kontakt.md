@@ -1,12 +1,12 @@
 ---
 title: Kontakt
-hide_title: true
+hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
     title: Kontakt
     subtitle: Nachricht senden
-    content: >+
+    content: >
       Wenn Sie eine Frage haben oder einen Termin für ein Erstgespräch
       vereinbaren möchten, senden Sie mir eine Nachricht.
     add-text: ''
