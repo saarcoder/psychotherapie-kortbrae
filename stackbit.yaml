@@ -329,6 +329,10 @@ models:
         name: quote
         label: Zitat
         description: Zitatext für den blauen Baustein-Kasten
+      - type: string
+        name: author
+        label: Autor
+        description: Urheber des Textzitats
       - type: list
         name: sections
         label: Sections
