@@ -1,5 +1,5 @@
 ---
-title: Therapie
+title: Coa hint
 date: '2021-10-10'
 main-image: images/therapie_klein.jpg
 main-image_alt: Therapeutin im Gespräch
