@@ -56,7 +56,7 @@ seo:
       value: Kursplan
       keyName: property
     - name: 'og:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Übersicht über mein therapeutisches Angebot
       keyName: property
     - name: 'og:image'
       value: images/01.jpg
