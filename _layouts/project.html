@@ -43,7 +43,7 @@ layout: body
         <div class="bottom">
             {% assign bottom-text_is_not_empty = page.bottom-text | is_not_empty %}
             {% if bottom-text_is_not_empty %}
-            {{ page.bottom-text }}
+            {{ page.bottom-text | markdownify }}
             {% endif %}
         </div>
       </div>
