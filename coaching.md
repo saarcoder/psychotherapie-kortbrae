@@ -40,11 +40,9 @@ layout: project
 thumb_image: images/coaching_klein.jpg
 subtitle: Mehr lesen
 more-content: >
-  In den Beratungssitzungen unterstütze ich Sie professionell dabei, z. B. mehr
-  Klarheit bei schwierigen Entscheidungen sowie Situationen der Überforderung zu
-  bekommen. Coaching kann außerdem helfen, den eigenen Standpunkt zu klären,
-  Chancen und Grenzen zu erkennen, die eigene Perspektive zu erweitern sowie
-  allgemein mit Belastungen erfolgreicher umzugehen.
+  Coaching kann außerdem helfen, den eigenen Standpunkt zu klären, Chancen und
+  Grenzen zu erkennen, die eigene Perspektive zu erweitern sowie allgemein mit
+  Belastungen erfolgreicher umzugehen.
 
 
   Man kann in verschiedensten Lebensbereichen an einen Punkt kommen, an dem
