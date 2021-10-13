@@ -34,6 +34,12 @@ layout: body
             <cite id="tvZitatquelle">{{ page.author }}</cite>
             {% endif %}
         </div>
+        <div>
+            {% assign more-content_is_not_empty = page.more-content | is_not_empty %}
+            {% if more-content_is_not_empty %}
+            {{ page.more-content }}
+            {% endif %}
+        </div>
       </div>
     </div>
 </article>
