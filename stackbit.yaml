@@ -656,7 +656,7 @@ models:
       - type: string
         name: title
         label: Überschrift
-        description
+        description: Seitenüberschrift
       - type: string
         name: subtitle
         label: Subtitle
