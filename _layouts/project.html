@@ -21,7 +21,7 @@ layout: body
         <figure>
             {% assign main-image_is_not_empty = section.main-image | is_not_empty %}
             {% if main-image_is_not_empty %}            
-            <img src="../{{ section.main-image }}" alt="{{ section.image_alt }}" />
+            <img src="../{{ section.main-image }}" alt="{{ section.main-image_alt }}" />
         </figure>
         <div>
             {% assign more-content_is_not_empty = section.more-content | is_not_empty %}
