@@ -1,7 +1,7 @@
 ---
 title: Coaching
 date: '2021-10-09'
-main-image: images/therapie_klein.jpg
+main-image: images/coaching_klein.jpg
 main-image_alt: Therapeutin im Gespräch
 quote: >-
   Nicht die Dinge beunruhigen die Menschen, sondern die Vorstellung von den
