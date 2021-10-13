@@ -665,6 +665,9 @@ models:
         name: content
         label: Content
         description: The text content of the section
+      - type: markdown
+        name: add-text
+        label: 
       - type: string
         name: form_id
         label: Form ID
