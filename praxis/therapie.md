@@ -72,8 +72,10 @@ layout: project
 thumb_image: images/profil_mini.jpg
 subtitle: Mehr lesen
 ---
-Ich bin ausgebildet in Verhaltenstherapie, deren Wirksamkeit von allen Therapiemethoden am besten wissenschaftlich belegt ist. In den letzten Jahren werden innerhalb der Verhaltenstherapie zunehmend Methoden eingesetzt, die nicht nur Verhalten und Gedanken, sondern auch Gefühle und emotionales Erleben verändern.
 
-Eine Therapie soll dazu beitragen, dass ihr Befinden und die Lebenssituation entsprechend ihren persönlichen Bedürfnissen verbessert werden.
+Nicht die Dinge beunruhigen die Menschen, sondern die Vorstellung von den Dingen.
+Epiktet, 1. Jhd. n. Chr.
+Therapie
+Ich behandle in meiner Praxis auf Grundlage der kognitiven Verhaltenstherapie. Ziel dabei ist es, dass der Patient im Verlauf der Therapie zum eigenen Experten wird. So lernt er zunächst zu erkennen und zu verstehen wie sein Problem entstanden ist und welche Faktoren aktuell dafür verantwortlich sind, dass das Problem bestehen bleibt.
 
-Meine Arbeit basiert auf der kognitiven Verhaltenstherapie und ich behandle:
+An eine detaillierte Analyse schließen sich die Erarbeitung konkreter Ziele und deren Umsetzungsmöglichkeiten an, wobei auch länger zurückliegende prägende Ereignisse und Erfahrungen Berücksichtigung finden. 
