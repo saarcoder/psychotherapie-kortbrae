@@ -8,7 +8,6 @@ author: Laozi, chin. Philosoph
 more-content: "-"
 sections:
   - type: image_section
-
     width: wide
 seo:
   title: Kursplan
