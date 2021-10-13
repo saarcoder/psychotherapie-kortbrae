@@ -654,6 +654,10 @@ models:
       - section
     fields:
       - type: string
+        name: title
+        label: Titel
+        
+      - type: string
         name: subtitle
         label: Subtitle
         description: The subtitle of the section
