@@ -46,7 +46,7 @@ sections:
   - type: image_section
     width: wide
 seo:
-  title: Kursplan
+  title: Mein Angebot
   description: Übersicht über mein therapeutisches Angebot
   extra:
     - name: 'og:type'
