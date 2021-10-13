@@ -16,7 +16,7 @@ sections:
     city: 60322 Frankfurt
     phone: 069 – 13 39 12 67
     image: images/praxis.jpg
-  - type: portfolio_section
+  - type: praxis_section
     section_id: latest-projects
     layout_style: tiles
     projects_number: 3
