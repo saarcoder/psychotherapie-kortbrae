@@ -324,7 +324,7 @@ models:
         description: The alt text of the thumbnail image
       - type: markdown
         name: more-content
-        label: Weiterer Text
+        label: Weiterer Text (Mitte)
       - type: string
         name: quote
         label: Zitat
