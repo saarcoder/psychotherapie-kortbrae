@@ -315,7 +315,7 @@ models:
         label: Date
         required: true
       - type: image
-        name: thumb_image
+        name: main-image
         label: Thumbnail image
         description: The image shown in the praxis grid
       - type: string
