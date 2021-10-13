@@ -30,7 +30,7 @@
             },
             {
                 "label": "Therapie",
-                "url": "/therapie",
+                "url": "/portfolio-therapie",
                 "style": "link",
                 "icon": "lotos",
                 "new_window": false,
