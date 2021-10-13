@@ -19,7 +19,7 @@ layout: body
       <div class="subgrid">
         <div>{{ content }}</div>
         <figure>
-            {% assign main-image_is_not_empty  %}
+            {% assign main-image_is_not_empty = section.main-image %}
             <img src="../{{ section.image }}" alt="{{ section.image_alt }}" />
         </figure>
         <div>
