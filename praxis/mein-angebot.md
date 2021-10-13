@@ -67,7 +67,7 @@ seo:
     - name: 'twitter:title'
       value: Kursplan
     - name: 'twitter:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Übersicht über mein therapeutisches Angebot
     - name: 'twitter:image'
       value: images/01.jpg
       relativeUrl: true
