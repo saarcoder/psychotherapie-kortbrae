@@ -41,7 +41,9 @@
     }
   }
 
-  &__copyright:hover, &__phone
+  &__copyright:hover, &__phone:hover, &__email:hover, &__link:hover {
+      
+  }
 
   &__info {
     .site-footer__copyright,
