@@ -5,7 +5,26 @@ main-image: images/person_main.jpg
 main-image_alt: Profilbild Sabine Kortbrae
 quote: 'Nur wer sein Ziel kennt, findet den Weg.'
 author: 'Laozi, chin. Philosoph'
-more-content: '-'
+more-content: Meine Qualifikation
+Approbation als Psychologische Psychotherapeutin durch die Regierung von Hessen
+
+Eingetragen in das Arztregister der Kassenärztlichen Vereinigung Hessen
+
+Mitglied der Psychotherapeutenkammer Hessen
+
+Qualitätssicherung
+Zur Qualitätssicherung finden regelmäßig fachliche Supervisionen durch erfahrene verhaltenstherapeutische Supervisoren statt. Außerdem regelmäßige Teilnahme an Fortbildungen sowie einer Intervisionsgruppe.
+
+Fortbildungen
+Vertiefung der Kenntnisse der Praxis der kognitiven Verhaltenstherapie
+
+Hypnotherapieausbildung nach Erickson
+
+Weiterbildung in Schematherapie
+
+Weiterbildung in Imagery Rescripting & Reprocessing Therapy (IRRT)
+
+Burnout-Coach (zertifiziert)
 sections:
   - type: image_section
     width: wide
