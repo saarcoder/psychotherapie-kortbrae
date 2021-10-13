@@ -24,12 +24,6 @@ layout: body
             <img src="../{{ page.main-image }}" alt="{{ page.main-image_alt }}" />
             {% endif %}
         </figure>
-        <div>
-            {% assign more-content_is_not_empty = page.more-content | is_not_empty %}
-            {% if more-content_is_not_empty %}
-            {{ page.more-content }}
-            {% endif %}
-        </div>
         <div id="left">
             {% assign quote_is_not_empty = page.quote | is_not_empty %}
             {% if quote_is_not_empty %}
