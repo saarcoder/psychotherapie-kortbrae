@@ -17,8 +17,6 @@ sections:
       Telefon: 069 – 13 39 12 67
       E-Mail: kontakt@psychotherapie-kortbrae.de
       Eingetragen im Psychotherapeutenregister der Kassenärztlichen Vereinigung Hessen, Nr. 89142
-
-
     Anfahrt mit öffentlichen Verkehrsmitteln
     S-Bahn  Hauptwache
     U-Bahn  Grüneburgweg
