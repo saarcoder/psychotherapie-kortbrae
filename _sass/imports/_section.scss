@@ -18,6 +18,18 @@
     margin: 0;
   }
 
+  
+      &__form-container {
+        box-sizing: border-box;
+        position: relative;
+        width: 645px;
+        min-height: 300px;
+        margin: 20px 0 40px 0;
+        padding: 25px 20px 25px 35px;
+        background-color: #fff;
+        border: 1px solid #DDD;
+      }
+
   &__subtitle {
     color: $color-gray-300;
     font-size: 0.88889em;
