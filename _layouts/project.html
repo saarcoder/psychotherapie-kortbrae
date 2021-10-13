@@ -25,7 +25,7 @@ layout: body
             {% assign more-content_is_not_empty = section.more-content | is_not_empty %}
             {% if more-content_is_not_empty %}
             {{ section.more-content }}
-            {}
+            {% endif %}
         </div>
         <div id="left">
             {% assign quote_is_not_empty = section.quote | is_not_empty %}
