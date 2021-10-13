@@ -39,7 +39,7 @@ layout: body
           {% if curr_index != 0 %}
             {% assign prev_project = projects_sorted[prev_index] %}
             
-            {% include p.html project_page=prev_project %}
+            {% include portfolio_item.html project_page=prev_project %}
           {% endif %}
           {% if curr_index < project_index_length %}
             {% assign next_project = projects_sorted[next_index] %}
