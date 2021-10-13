@@ -19,7 +19,7 @@ layout: body
         {{ content }}
         <div id="left">
             {% assign quote_is_not_empty = section.quote %}
-            {}
+            {% if qu %}
             <blockquote id="tvZitate">Nur wer sein Ziel kennt, findet den Weg.</blockquote>
             <cite id="tvZitatquelle">Laozi, chin. Philosoph</cite>
         </div>
