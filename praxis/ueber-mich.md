@@ -5,7 +5,12 @@ main-image: images/person_main.jpg
 main-image_alt: Profilbild Sabine Kortbrae
 quote: 'Nur wer sein Ziel kennt, findet den Weg.'
 author: 'Laozi, chin. Philosoph'
-more-content: 
+more-content: >
+  ## Meine Qualifikation
+
+
+  Approbation als Psychologische Psychotherapeutin durch die Regierung von
+  Hessen
 sections:
   - type: image_section
     width: wide
