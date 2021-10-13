@@ -72,10 +72,6 @@ layout: project
 thumb_image: images/profil_mini.jpg
 subtitle: Mehr lesen
 ---
-
-Nicht die Dinge beunruhigen die Menschen, sondern die Vorstellung von den Dingen.
-Epiktet, 1. Jhd. n. Chr.
-Therapie
 Ich behandle in meiner Praxis auf Grundlage der kognitiven Verhaltenstherapie. Ziel dabei ist es, dass der Patient im Verlauf der Therapie zum eigenen Experten wird. So lernt er zunächst zu erkennen und zu verstehen wie sein Problem entstanden ist und welche Faktoren aktuell dafür verantwortlich sind, dass das Problem bestehen bleibt.
 
 An eine detaillierte Analyse schließen sich die Erarbeitung konkreter Ziele und deren Umsetzungsmöglichkeiten an, wobei auch länger zurückliegende prägende Ereignisse und Erfahrungen Berücksichtigung finden. 
