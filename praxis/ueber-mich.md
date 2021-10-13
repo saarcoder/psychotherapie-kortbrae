@@ -24,7 +24,7 @@ more-content:  "##Meine Qualifikation
   
   Weiterbildung in Imagery Rescripting & Reprocessing Therapy (IRRT)
   
-  Burnout-Coach (zertifiziert)
+  Burnout-Coach (zertifiziert)"
 sections:
   - type: image_section
     width: wide
