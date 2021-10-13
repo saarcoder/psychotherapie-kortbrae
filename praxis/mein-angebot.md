@@ -75,14 +75,8 @@ layout: project
 thumb_image: images/profil_mini.jpg
 subtitle: Mehr lesen
 ---
-Geboren 1964 in Frankfurt/M., verheiratet, 1 erwachsener Sohn.
+ch bin ausgebildet in Verhaltenstherapie, deren Wirksamkeit von allen Therapiemethoden am besten wissenschaftlich belegt ist. In den letzten Jahren werden innerhalb der Verhaltenstherapie zunehmend Methoden eingesetzt, die nicht nur Verhalten und Gedanken, sondern auch Gefühle und emotionales Erleben verändern.
 
-1983-1985 Berufsausbildung und 1991 Zusatzqualifikation im kaufmännischen Bereich.
+Eine Therapie soll dazu beitragen, dass ihr Befinden und die Lebenssituation entsprechend ihren persönlichen Bedürfnissen verbessert werden.
 
-Insgesamt 18 Jahre in der Wirtschaft tätig.
-
-2001-2007 Psychologiestudium in Frankfurt/M. mit Diplomabschluss.
-
-Im Anschluss 3-jährige verhaltenstherapeutische Ausbildung und 2010 Approbation als Psychologische Psychotherapeutin für Erwachsene.
-
-Seit April 2011 in eigener Praxis tätig.
+Meine Arbeit basiert auf der kognitiven Verhaltenstherapie und ich behandle:
