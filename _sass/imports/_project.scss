@@ -23,7 +23,7 @@
 
   .subgrid {
       display: grid;
-      grid-template-areas: ;
+      grid-template-areas: left left right;
       grid-template-columns: 2fr 1fr;
   }
 
