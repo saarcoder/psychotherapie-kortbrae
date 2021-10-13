@@ -27,7 +27,7 @@
 
   .subgrid {
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr .fr 1fr;
       grid-template-areas: 
         "left left right"
         "centerLeft centerRight centerRight"
