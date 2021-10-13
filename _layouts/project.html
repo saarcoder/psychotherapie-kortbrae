@@ -33,7 +33,7 @@ layout: body
         <div id="left">
             {% assign quote_is_not_empty = page.quote | is_not_empty %}
             {% if quote_is_not_empty %}
-            <blockquote id="tvZitate">{{ section.quote }}</blockquote>
+            <blockquote id="tvZitate">{{ page.quote }}</blockquote>
             {% endif %}
             {% assign author_is_not_empty = section.author | is_not_empty %}
             {% if author_is_not_empty %}
