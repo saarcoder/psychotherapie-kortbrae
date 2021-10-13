@@ -25,6 +25,14 @@
       margin-top: -1rem;
   }
 
+  .subgrid {
+      display: grid;
+      grid-template-areas: 
+        "left left right"
+        "left right right"
+        "left left left";
+  }
+  
   figure img {        
         max-width: 660px;
         border: 1px solid #DDD;
