@@ -3,7 +3,9 @@ title: Coaching
 date: '2021-10-09'
 main-image: images/coaching_klein.jpg
 main-image_alt: freundliche Therapeutin
-quote: ''
+quote: >-
+  Wenn Sie immer nur das tun, was Sie bisher getan haben, werden Sie auch immer
+  nur das bekommen, was Sie bisher bekommen haben.
 bottom-text: ''
 sections:
   - type: image_section
