@@ -9,7 +9,6 @@ sections:
     content: >
       Wenn Sie eine Frage haben oder einen Termin für ein Erstgespräch
       vereinbaren möchten, senden Sie mir eine Nachricht.
-    add-text: '-'
     form_id: contactForm
     form_action: /thank-you
     form_fields:
