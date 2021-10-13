@@ -75,7 +75,7 @@ layout: project
 thumb_image: images/profil_mini.jpg
 subtitle: Mehr lesen
 ---
-ch bin ausgebildet in Verhaltenstherapie, deren Wirksamkeit von allen Therapiemethoden am besten wissenschaftlich belegt ist. In den letzten Jahren werden innerhalb der Verhaltenstherapie zunehmend Methoden eingesetzt, die nicht nur Verhalten und Gedanken, sondern auch Gefühle und emotionales Erleben verändern.
+Ich bin ausgebildet in Verhaltenstherapie, deren Wirksamkeit von allen Therapiemethoden am besten wissenschaftlich belegt ist. In den letzten Jahren werden innerhalb der Verhaltenstherapie zunehmend Methoden eingesetzt, die nicht nur Verhalten und Gedanken, sondern auch Gefühle und emotionales Erleben verändern.
 
 Eine Therapie soll dazu beitragen, dass ihr Befinden und die Lebenssituation entsprechend ihren persönlichen Bedürfnissen verbessert werden.
 
