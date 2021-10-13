@@ -22,7 +22,7 @@
             },
             {
                 "label": "Mein Angebot",
-                "url": "/portfolio/mein-angebot",
+                "url": "/praxis/mein-angebot",
                 "style": "link",
                 "icon": "lotos",
                 "new_window": false,
