@@ -7,9 +7,9 @@ quote: 'Nur wer sein Ziel kennt, findet den Weg.'
 author: 'Laozi, chin. Philosoph'
 more-content:  >-
   ##Meine Qualifikation
-Approbation als Psychologische Psychotherapeutin durch die Regierung von Hessen
-
-Eingetragen in das Arztregister der Kassenärztlichen Vereinigung Hessen
+  Approbation als Psychologische Psychotherapeutin durch die Regierung von Hessen
+  
+  Eingetragen in das Arztregister der Kassenärztlichen Vereinigung Hessen
 
 Mitglied der Psychotherapeutenkammer Hessen
 
