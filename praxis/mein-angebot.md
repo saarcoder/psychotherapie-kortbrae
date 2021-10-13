@@ -47,7 +47,7 @@ sections:
     width: wide
 seo:
   title: Kursplan
-  description: Übersicht über mein Angebot
+  description: Übersicht über mein therapeutisches Angebot
   extra:
     - name: 'og:type'
       value: website
