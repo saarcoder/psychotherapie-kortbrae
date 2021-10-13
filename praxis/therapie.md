@@ -3,34 +3,23 @@ title: Therapie
 date: '2021-10-10'
 main-image: images/therapie_klein.jpg
 main-image_alt: Therapeutin im Gespräch
-quote: 'Nicht die Dinge beunruhigen die Menschen, sondern die Vorstellung von den Dingen.'
-author: Epiktet, 1. Jhd. n. Chr.
-more-content: |
-  *   Lebenskrisen, privat und/oder beruflich
+quote: >-
+  Nicht die Dinge beunruhigen die Menschen, sondern die Vorstellung von den
+  Dingen.
+author: 'Epiktet, 1. Jhd. n. Chr.'
+more-content: >
+  So wird u.a. an einer Veränderung der Perspektiven sowie der Einstellungen und
+  Handlungsmöglichkeiten gearbeitet. Hierbei sind die Hilfe zur Selbsthilfe,
+  eine Stärkung der Selbstkontrolle sowie Selbstmanagement wichtige Prinzipien,
+  der Aufbau eines positiven Selbstbildes und Lebenskonzepts wichtige Pfeiler.
 
-  <!---->
 
-  *   Beziehungskrisen sowie Probleme bei Trennung (Einzeltherapie)
-
-  <!---->
-
-  *   Stress und Überforderung
-
-  <!---->
-
-  *   Soziale Unsicherheit, Selbstwertprobleme
-
-  <!---->
-
-  *   Depression
-
-  <!---->
-
-  *   Zwänge
-
-  <!---->
-
-  *   Psychologische Beratung und Coaching
+  Grundlage für eine erfolgreiche gemeinsame Arbeit ist eine von Empathie und
+  Respekt getragene therapeutische Beziehung, wobei es mir sehr wichtig ist die
+  Therapie offen und transparent zu gestalten. In wöchentlichen Sitzungen werden
+  Lösungswege und Techniken geübt, die sie dabei unterstützen, das Problem
+  selbständig zu bewältigen, denn das Ziel ist es immer, dass sie ihren Weg
+  möglichst rasch wieder selbst gehen.
 bottom-text: |
   **Mein Schwerpunkt liegt auf der Behandlung von:**
 
