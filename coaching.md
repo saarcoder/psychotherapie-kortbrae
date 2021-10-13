@@ -48,11 +48,6 @@ layout: project
 thumb_image: images/coaching_klein.jpg
 subtitle: Mehr lesen
 more-content: >
-  Coaching kann außerdem helfen, den eigenen Standpunkt zu klären, Chancen und
-  Grenzen zu erkennen, die eigene Perspektive zu erweitern sowie allgemein mit
-  Belastungen erfolgreicher umzugehen.
-
-
   Man kann in verschiedensten Lebensbereichen an einen Punkt kommen, an dem
   Coaching und psychologische Beratung sehr hilfreich sein können, z.B. bei:
 
