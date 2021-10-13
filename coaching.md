@@ -37,5 +37,15 @@ seo:
 layout: project
 thumb_image: images/coaching_klein.jpg
 subtitle: Mehr lesen
+more-content: >
+  In den Beratungssitzungen unterstütze ich Sie professionell dabei, z. B. mehr
+  Klarheit bei schwierigen Entscheidungen sowie Situationen der Überforderung zu
+  bekommen. Coaching kann außerdem helfen, den eigenen Standpunkt zu klären,
+  Chancen und Grenzen zu erkennen, die eigene Perspektive zu erweitern sowie
+  allgemein mit Belastungen erfolgreicher umzugehen.
+
+
+  Man kann in verschiedensten Lebensbereichen an einen Punkt kommen, an dem
+  Coaching und psychologische Beratung sehr hilfreich sein können, z.B. bei:
 ---
 Nicht jedes belastende Problem erfordert eine Psychotherapie und hier können psychologische Beratungsgespräche in schwierigen Lebensphasen eine sinnvolle Alternative sein. Diese werden häufig auch als Coaching bezeichnet. Als approbierte Verhaltenstherapeutin bin ich Fachfrau in der Unterstützung von Veränderungsprozessen.
