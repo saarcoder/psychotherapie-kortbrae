@@ -20,7 +20,7 @@ sections:
       ## Anfahrt mit öffentlichen Verkehrsmitteln
       **S-Bahn**  Hauptwache
       **U-Bahn**  Grüneburgweg
-      Anfahrt mit dem Auto
+      ## Anfahrt mit dem Auto
     Parkhaus Turmcenter 15 Min. Fußweg
 
     form_id: contactForm
