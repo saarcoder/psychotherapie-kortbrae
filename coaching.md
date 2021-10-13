@@ -4,11 +4,7 @@ date: '2021-10-09'
 main-image: images/coaching_klein.jpg
 main-image_alt: freundliche Therapeutin
 quote: 
-bottom-text: >
-  Das Verfahren der kognitiven Verhaltenstherapie zählt zu den zentralen
-  Therapierichtungen und wird von allen Krankenversicherungen (gesetzlich,
-  privat) anerkannt. Sie wird je nach Problem in der Regel als Kurzzeittherapie
-  (12 -24 Stunden) oder als Langzeittherapie (bis 60 Stunden) durchgeführt.
+bottom-text: 
 sections:
   - type: image_section
     width: wide
