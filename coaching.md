@@ -3,24 +3,7 @@ title: Coaching
 date: '2021-10-09'
 main-image: images/coaching_klein.jpg
 main-image_alt: freundliche Therapeutin
-quote: >-
-  Wenn Sie immer nur das tun, was Sie bisher getan haben, werden Sie auch immer nur das bekommen, was Sie bisher bekommen haben.
-author: 'Henry Ford'
-more-content: >
-  So wird u.a. an einer Veränderung der Perspektiven sowie der Einstellungen und
-  Handlungsmöglichkeiten gearbeitet. Hierbei sind die Hilfe zur Selbsthilfe,
-  eine Stärkung der Selbstkontrolle sowie Selbstmanagement wichtige Prinzipien,
-  der Aufbau eines positiven Selbstbildes und Lebenskonzepts wichtige Pfeiler.
-
-
-  Grundlage für eine erfolgreiche gemeinsame Arbeit ist eine von Empathie und
-  Respekt getragene therapeutische Beziehung, wobei es mir sehr wichtig ist die
-  Therapie offen und transparent zu gestalten.
-
-
-  In wöchentlichen Sitzungen werden Lösungswege und Techniken geübt, die sie
-  dabei unterstützen, das Problem selbständig zu bewältigen, denn das Ziel ist
-  es immer, dass sie ihren Weg möglichst rasch wieder selbst gehen.
+quote: 
 bottom-text: >
   Das Verfahren der kognitiven Verhaltenstherapie zählt zu den zentralen
   Therapierichtungen und wird von allen Krankenversicherungen (gesetzlich,
