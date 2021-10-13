@@ -333,6 +333,7 @@ models:
         name: author
         label: Autor
         description: Urheber des Textzitats
+      - type: 
       - type: list
         name: sections
         label: Sections
