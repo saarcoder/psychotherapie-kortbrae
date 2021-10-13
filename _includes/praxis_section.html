@@ -11,7 +11,7 @@
     <p class="section__subtitle">{{ section.subtitle }}</p>
     {% endif %}
     <div class="grid portfolio-feed portfolio-feed--{{ layout_style }}">
-      {% assign projects_sorted = '/portfolio' | get_pages | sort: 'date' | reverse %}
+      {% assign projects_sorted = '/praxis' | get_pages | sort: 'date' | reverse %}
       {% assign slice_length = section.projects_number | minus: 0 %}
       {% assign projects_recent = projects_sorted | slice: 0, slice_length %}
       {% for project in projects_recent %}
