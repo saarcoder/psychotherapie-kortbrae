@@ -22,7 +22,8 @@
   }
 
   .subgrid {
-      
+      display: grid;
+      grid-template-columns: 1;
   }
 
   .text-block {
