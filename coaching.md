@@ -6,7 +6,15 @@ main-image_alt: freundliche Therapeutin
 quote: >-
   Wenn Sie immer nur das tun, was Sie bisher getan haben, werden Sie auch immer
   nur das bekommen, was Sie bisher bekommen haben.
-bottom-text: ''
+bottom-text: >
+  Dabei fungiere ich als ihre Beraterin, habe einen neutralen Blick „von Außen“
+  und stehe dennoch auf ihrer Seite. Ich möchte durch die gemeinsame Arbeit dazu
+  beitragen, dass ihr Befinden und ihre Lebensqualität entsprechend ihrer
+  persönlichen Bedürfnisse verbessert wird. Im Unterschied zu einer
+  Psychotherapie dürfen bei psychologischer Beratung/Coaching keine psychischen
+  Störungen mit Krankheitswert behandelt werden. Es handelt sich deshalb nicht
+  um eine Heilbehandlung mit der Folge, dass eine Kostenübernahme durch die
+  Krankenversicherung nicht möglich ist.
 sections:
   - type: image_section
     width: wide
