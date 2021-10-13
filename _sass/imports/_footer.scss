@@ -2,7 +2,7 @@
   padding: 1.5rem;    
   background: linear-gradient(45deg, #1a72b0, transparent);
   width: calc(100% - 3rem);
-  box-shadow: 0 0 10px 0 rgb(10 10 10 / 20%);
+  box-shadow: 0 0 10px 0 rgb(10 10 10 / 0.2);
   position: relative;
   z-index: 2;
 
@@ -33,7 +33,7 @@
     & img.logo {
       height: 80px;
       width: 140px;
-      border-right: 1px solid #dddddd45;
+      border-right: 1px solid #dddd45;
     }
   }
 
