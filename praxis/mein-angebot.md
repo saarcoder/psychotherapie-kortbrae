@@ -47,7 +47,7 @@ sections:
     width: wide
 seo:
   title: Kursplan
-  description: Übersicht über meine aktuellen Kurse
+  description: Übersicht über mein Angebot
   extra:
     - name: 'og:type'
       value: website
