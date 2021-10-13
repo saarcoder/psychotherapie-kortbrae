@@ -13,7 +13,7 @@ Eingetragen in das Arztregister der Kassenärztlichen Vereinigung Hessen
 
 Mitglied der Psychotherapeutenkammer Hessen
 
-Qualitätssicherung
+##Qualitätssicherung
 Zur Qualitätssicherung finden regelmäßig fachliche Supervisionen durch erfahrene verhaltenstherapeutische Supervisoren statt. Außerdem regelmäßige Teilnahme an Fortbildungen sowie einer Intervisionsgruppe.
 
 ##Fortbildungen
