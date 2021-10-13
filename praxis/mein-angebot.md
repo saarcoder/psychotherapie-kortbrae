@@ -31,31 +31,14 @@ more-content: |
   <!---->
 
   *   Psychologische Beratung und Coaching
-bottom-text: >
-  ## Qualitätssicherung
+bottom-text: |
+  Mein Schwerpunkt liegt auf der Behandlung von:
 
+  *   Burnout, Erschöpfungsdepression
 
-  Zur Qualitätssicherung finden regelmäßig fachliche Supervisionen durch
-  erfahrene verhaltenstherapeutische Supervisoren statt. Außerdem regelmäßige
-  Teilnahme an Fortbildungen sowie einer Intervisionsgruppe.
+  <!---->
 
-
-  ## Fortbildungen
-
-
-  Vertiefung der Kenntnisse der Praxis der kognitiven Verhaltenstherapie
-
-
-  Hypnotherapieausbildung nach Erickson
-
-
-  Weiterbildung in Schematherapie
-
-
-  Weiterbildung in Imagery Rescripting & Reprocessing Therapy (IRRT)
-
-
-  Burnout-Coach (zertifiziert)
+  *   Ängsten, Phobien, Panikattacken
 sections:
   - type: image_section
     width: wide
