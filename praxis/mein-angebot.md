@@ -2,7 +2,7 @@
 title: Mein Angebot
 date: '2021-10-11'
 main-image: images/angebot_klein.jpg
-main-image_alt: Profilbild Sabine Kortbrae
+main-image_alt: Zwei Hände umfassen 
 quote: 'Nur wer sein Ziel kennt, findet den Weg.'
 author: 'Laozi, chin. Philosoph'
 more-content: >
