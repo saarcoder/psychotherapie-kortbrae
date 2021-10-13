@@ -36,7 +36,9 @@
     & div {
         text-align: center;
     }
-    
+    & div:hover {
+        color: #58efff;
+    }
   }
 
   &__info {
