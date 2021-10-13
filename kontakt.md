@@ -10,7 +10,7 @@ sections:
       Wenn Sie eine Frage haben oder einen Termin für ein Erstgespräch
       vereinbaren möchten, senden Sie mir eine Nachricht.
     add-text: >
-      Bitte benutzen Sie für den E-Mail-Kontakt meine u.a. Kontaktadresse!
+      "Bitte benutzen Sie für den E-Mail-Kontakt meine u.a. Kontaktadresse!
       Psychotherapeutische Praxis Sabine Kortbrae
       Wolfsgangstraße 65
       60322 Frankfurt
