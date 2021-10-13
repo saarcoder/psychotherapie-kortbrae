@@ -186,41 +186,6 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  blog:
-    type: page
-    urlPath: /coaching
-    label: Coaching
-    layout: blog
-    file: coaching/index.md
-    hideContent: true
-    singleInstance: true
-    fields:
-      - type: string
-        name: title
-        label: Titel
-        description: Der Titel der Seite
-        required: true
-      - type: string
-        name: subtitle
-        label: Untertitel
-        description: Der Text direkt unter dem Titel
-      - type: boolean
-        name: hide_title
-        label: Titel und Untertitel verbergen
-        default: false
-      - type: enum
-        name: col_number
-        label: Spalten
-        description: Anzahl der Spalten im Raster
-        options:
-          - two
-          - three
-        default: three
-        required: true
-      - type: model
-        name: seo
-        models:
-          - stackbit_page_meta
   praxis:
     type: page
     urlPath: /praxis
