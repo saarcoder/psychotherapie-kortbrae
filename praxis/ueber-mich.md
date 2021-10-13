@@ -5,7 +5,7 @@ date: '2021-10-12'
     main-image_alt: Profilbild Sabine Kortbrae
     quote: Nur wer sein Ziel kennt, findet den Weg.
     author: Laozi, chin. Philosoph
-    more-content: "-"
+more-content: "-"
 sections:
   - type: image_section
 
