@@ -34,8 +34,7 @@ Ambulante Psychotherapie ist eine Leistung der gesetzlichen Krankenkassen. Diese
 Von Privatkassen werden die Kosten für eine ambulante Psychotherapie je nach den individuellen Versicherungsbedingungen übernommen. Klären Sie deshalb bitte im Vorfeld mit Ihrer Krankenkasse ab, in welchem Umfang eine Kostenübernahme möglich ist. Sind Sie Beihilfeberechtigt werden Ihnen die Therapiekosten gemäß der Gebührenordnung für Ärzte und Psychotherapeuten (GOP) in Rechnung gestellt und Sie können diese bei Ihrer Beihilfestelle einreichen.
 
 
-
-##### Umfang der Datenverarbeitung
+##### Selbstzahler
 
 Meine Homepage dient der Bereitstellung von Informationen über meine Praxis sowie der Möglichkeit der Kontaktaufnahme mit mir. Bei jedem Aufruf meiner Internetseite erfasst das System automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners.<br><br>
 
