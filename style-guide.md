@@ -85,42 +85,4 @@ for (let i = 0; i < sequence.length; i++) {
 }
 ```
 
-## Inline Elements
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **_asterisks and underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-Inline `code with back-ticks around` it.
-
-This is <mark>marked or highlighted</mark> text.
-
-This is [an example](http://example.com) link.
-
-## Tables
-
-<table>
-    <caption>Table with thead, tfoot, and tbody</caption>
-  <thead>
-    <tr>
-      <th>Header content 1</th>
-      <th>Header content 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Body content 1</td>
-      <td>Body content 2</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Footer content 1</td>
-      <td>Footer content 2</td>
-    </tr>
-  </tfoot>
-</table>
