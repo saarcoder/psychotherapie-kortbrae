@@ -31,7 +31,7 @@
         </div>
         <div>
             {% assign impressum_is_not_empty = site.data.config.footer.link-impressum | is_not_empty %}
-            
+            {% if impressum_is_not_empty %}
             <div class="site-footer__link">
                 <a href="/{{ site.data.config.footer.link }}">{{ site.data.config.footer.link }}</a>
             </div>
