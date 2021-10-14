@@ -39,7 +39,7 @@ Sabine Kortbrae<br>
 Wolfsgangstraße 65<br>
 60322 Frankfurt<br>
 Telefon: 069/13 39 12 67<br>
-E-Mail: <a href=""mailto:kontakt@psychotherapie-kortbrae.de><br>
+E-Mail: <a href="mailto:kontakt@psychotherapie-kortbrae.de><br>
 </address>
 
 Die Praxis hat keinen Datenschutzbeauftragten, da sie weniger als 10 Angestellte hat.
