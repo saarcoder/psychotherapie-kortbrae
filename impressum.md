@@ -45,3 +45,7 @@ Haftungshinweis:
 
 Dipl.-Psych. Sabine Kortbrae bemüht sich, auf dieser Website vollständige und richtige Informationen zur Verfügung zu stellen. Es wird jedoch keine Garantie oder Haftung für die Richtigkeit, Aktualität sowie Vollständigkeit der bereitgestellten Informationen übernommen. Änderungen bleiben vorbehalten. Ich übernehme keine Haftung für die Inhalte externer Links. Für deren Inhalte und die jeweiligen Datenschutzbestimmungen sind die Betreiber dieser Sites zuständig.
 
+Urheberrecht:
+Die Urheber- und Nutzungsrechte der veröffentlichen Inhalte sind geschützt und verbleiben allein beim Urheber. Eine Verwendung oder Vervielfältigung des Text- und Bildmaterials dieser Website ist nicht gestattet.
+
+**Hinweis:** Bitte klicken Sie [hier](https://psychotherapie-kortbrae.de/Datenschutz) für Informationen zum Datenschutz.
