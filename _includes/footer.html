@@ -9,6 +9,7 @@
                 {{ site.data.config.footer.content }}
             </div>
             {% endif %}
+            
             {% assign phone_is_not_empty = site.data.config.footer.phone | is_not_empty %}
             {% if phone_is_not_empty %}
             <div class="site-footer__phone">
