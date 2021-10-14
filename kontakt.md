@@ -27,10 +27,6 @@ sections:
         name: phone
         label: Telefonnummer
         default_value: Ihre Telefonnummer
-        options:
-          - Ayurveda-Beratung
-          - Kursanmeldung
-          - Newsletter
         is_required: true
       - input_type: textarea
         name: message
