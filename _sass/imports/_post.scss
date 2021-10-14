@@ -88,3 +88,8 @@
       margin-bottom: 220px;
   }
 }
+
+  & .accent-white .text-block a:not(.button)  {
+      color: $color-tertiary;
+  }
+  
