@@ -44,9 +44,13 @@ E-Mail: <a href="mailto:kontakt@psychotherapie-kortbrae.de">kontakt@psychotherap
 
 Die Praxis hat keinen Datenschutzbeauftragten, da sie weniger als 10 Angestellte hat.
 
+
+
 ##### Welche personenbezogenen Daten werden erhoben?
 
 Es werden personenbezogene Daten nur dann erhoben und genutzt, wenn ein gesetzlicher Grund für die Erhebung und Nutzung vorliegt. Wir erheben und verwenden personenbezogene Daten nur, soweit dies zur Bereitstellung einer funktionsfähigen Webseite sowie meiner Inhalte und Leistungen erforderlich ist. Als personenbezogene Daten gelten sämtliche Informationen, die dazu dienen, einen Rückschluss auf Ihre Person zuzulassen (z.B. Vor- und Nachname, E-Mail-Adresse, Telefonnummer). Aufgrund Ihrer freiwilligen Eingaben auf der Webseite erheben wir Daten auf dem Kontaktformular (Vor- und Nachname, Telefonnummer und Ihre E-Mail-Adresse). Die von Ihnen eingegebenen Daten dienen alleine der Kontaktaufnahme und werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Im Online-Formular weisen wir Sie nochmals auf den Zweck der Datenerhebung und auf diese Datenschutzerklärung hin. Hierbei weisen wir darauf hin, dass bei der Datenübertragung im Internet Sicherheitslücken bestehen können. Sollten Sie den Kommunikationsweg dennoch nutzen, erfolgt die Nutzung des Kontaktformulars durch Ihre freiwillig erteilte Einwilligung (Art. 6 Absatz 1 Satz 1 lit a. DSGVO).
+
+
 
 ##### Umfang der Datenverarbeitung
 
@@ -70,6 +74,8 @@ Meine Homepage dient der Bereitstellung von Informationen über meine Praxis sow
 
 Die Daten werden ebenfalls in den Logfiles des Systems gespeichert. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt.
 
+
+
 ##### Wofür werden die Daten genutzt?
 
 Die Daten werden ausschließlich zur Bereitstellung des Internetangebots genutzt. Mit ihrer Einwilligung werden Ihre Daten nur zur Entgegennahme Ihrer Mitteilung genutzt. Es unterliegt ihrer freien Entscheidung, ob sie diese Daten angeben.
@@ -77,17 +83,25 @@ Die Daten werden ausschließlich zur Bereitstellung des Internetangebots genutzt
 Die Daten werden nicht genutzt…
 Zur Profilbildung, zu Werbezwecken und werden nicht an Dritte weitergegeben.
 
+
+
 ##### Verwendung von google-maps
 
 Diese Webseite verwendet google-maps, um geographische Informationen visuell darzustellen. Bei der Nutzung von google-maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Nähre Informationen über die Datenverarbeitung durch Google können Sie den Google-Datenschutzhinweisen entnehmen. Dort können Sie im Datenschutzcenter auch Ihre persönlichen Datenschutz-Einstellungen verändern.
+
+
 
 ##### Verwendung von Cookies
 
 In bestimmten Fällen werden Cookies verwendet. Ruft ein Nutzer eine Webseite auf, kann ein Cookie auf dem Betriebssystem des Nutzers gespeichert werden, die beim erneuten Aufruf der Webseite eine eindeutige Identifizierung ermöglicht. Cookies enthalten allerdings keine personenbezogenen Daten und werden nach Ablauf der Sitzung automatisch gelöscht. Im Fall einer Verlinkung können Cookies von Drittanbietern zum Einsatz kommen, ohne dass wir Sie darauf ausdrücklich hinweisen können. Die gängigen Browser erlauben es, die Verarbeitung solcher Cookies festzulegen, so dass Sie das Speichern dieser Cookies in Ihrem Internetbrowser deaktivieren bzw. die Art der Verarbeitung durch Ihren Browser einstellen können. Bei der Deaktivierung ist nicht gewährleistet, dass Sie auf alle Funktionen dieser Webseite ohne Einschränkungen zugreifen können.
 
+
+
 ##### Hinweis auf Verschlüsselung
 
 Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir dem aktuellen Stand der Technik entsprechende Verschlüsselungsverfahren (z.B. SSL) über HTTPS.
+
+
 
 ##### Welche Rechte hat der Besucher der Webseite?
 
