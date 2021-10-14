@@ -53,7 +53,7 @@
         "phone": "069 – 13 39 12 67",
         "email": "kontakt@psychotherapie-kortbrae.de",
         "has_social": false,
-        "link": "impressum",
+        "link-impressum": "impressum",
         "social_links": [
             {
                 "label": "Facebook",
