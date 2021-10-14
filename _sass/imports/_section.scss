@@ -164,7 +164,9 @@
   mark:first-of-type {
       letter-spacing: .5px;
   }
-  mark:first-of-type ~
+  mark:first-of-type ~ mark:first-of-type {
+      letter-spacing: none;
+  }
 }
 
 @media only screen and (max-width: 768px) {
