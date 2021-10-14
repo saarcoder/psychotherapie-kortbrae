@@ -164,7 +164,7 @@
   mark {
       letter-spacing: .5px;
   }
-  mark:first-of-type ~ mark:first-of-type {
+  mark {
       letter-spacing: none;
   }
 }
