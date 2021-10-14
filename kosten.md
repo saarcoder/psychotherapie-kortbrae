@@ -1,7 +1,5 @@
 ---
-title: >-
-  Datenschutzerklärung nach der DSGVO für die Praxishomepage
-  www.psychotherapie-kortbrae.de
+title: Kostenübernahme
 subtitle: ''
 seo:
   title: Datenschutzbestimmungen
