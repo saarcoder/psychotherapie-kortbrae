@@ -10,7 +10,7 @@
                 {{ site.data.config.footer.content }}
             </div>
         {% endif %}
-        {% assign impressum_is_not_empty = site.data.config.footer.link-kosten | is_not_empty %}
+        {% assign kosten_is_not_empty = site.data.config.footer.link-kosten | is_not_empty %}
         {% if impressum_is_not_empty %}
         <div class="site-footer__link">
             <a href="/{{ site.data.config.footer.link-kosten }}">{{ site.data.config.footer.link-impressum }}</a>
