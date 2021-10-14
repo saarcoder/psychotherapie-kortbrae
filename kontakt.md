@@ -42,6 +42,7 @@ sections:
         label: >-
           Ich habe verstanden, dass mit diesem Formular meine Daten online
           übermittelt werden, damit ich kontaktiert werden kann.
+        is_required: true
     submit_label: Nachricht senden
 seo:
   title: Kontakt
