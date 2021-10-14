@@ -161,7 +161,12 @@
       }
     }
   }
-
+  strong > mark {
+      letter-spacing: .5px;
+  }
+  strong > mark ~ mark {
+      letter-spacing: none;
+  }
 }
 
 @media only screen and (max-width: 768px) {
