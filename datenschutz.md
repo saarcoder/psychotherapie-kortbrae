@@ -72,7 +72,7 @@ Meine Homepage dient der Bereitstellung von Informationen über meine Praxis sow
 
 (7) Websites, die vom System des Nutzers über unsere Website aufgerufen werden
 
-Die Daten werden ebenfalls in den Logfiles des Systems gespeichert. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt.
+Die Daten werden ebenfalls in den Logfiles des Systems gespeichert. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt.<br><br>
 
 
 
