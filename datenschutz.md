@@ -61,10 +61,16 @@ Meine Homepage dient der Bereitstellung von Informationen über meine Praxis sow
 (2) Das Betriebssystem des Nutzers
 
 (3) Den Internet-Service-Provider des Nutzers
+
 (4) Die IP-Adresse des Nutzers
+
 (5) Datum und Uhrzeit des Zugriffs
+
 (6) Websites, von denen das System des Nutzers auf unsere Internetseite gelangt
+
 (7) Websites, die vom System des Nutzers über unsere Website aufgerufen werden
+
+
 Die Daten werden ebenfalls in den Logfiles des Systems gespeichert. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt.
 
 ### Wofür werden die Daten genutzt?
