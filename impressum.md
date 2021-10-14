@@ -33,3 +33,10 @@ Steuernummer: 014 837 71506
 
 Die berufsrechtliche Regelung kann [hier](http://www.gesetze-im-internet.de/psychthg/) eingesehen werden.
 
+Zuständige Aufsichtsbehörde: Hessisches Landesprüfungs- und Untersuchungsamt im Gesundheitswesen
+
+Zuständige Kammer: Landespsychotherapeutenkammer Hessen
+
+Kassenärztliche Vereinigung: Kassenärztliche Vereinigung Hessen
+
+Vertragsärztliche Tätigkeiten als Psychologische Psychotherapeutin unterliegen gemäß § 4 Nr. 14 Satz 1 UStG nicht der Umsatzsteuer.
