@@ -22,8 +22,7 @@ seo:
       value: Kostenübernahme
     - name: 'twitter:description'
       value: >-
-        Datenschutzerklärung nach der DSGVO für die Praxishomepage
-        www.psychotherapie-kortbrae.de
+        Erläuterung der Kostenübernahme für Selbstzahler, gesetzliche Krankenkassen, private Krankenkassen und Beihilfe
 layout: page
 ---
 ##### Name und Anschrift des Verantwortlichen
