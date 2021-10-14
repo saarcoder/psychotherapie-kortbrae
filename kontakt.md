@@ -25,7 +25,7 @@ sections:
         is_required: true
       - input_type: phone
         name: phone
-        label: Betreff
+        label: Telefonnummer
         default_value: Bitte auswählen
         options:
           - Ayurveda-Beratung
