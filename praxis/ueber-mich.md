@@ -69,7 +69,7 @@ seo:
     - name: 'twitter:description'
       value: Meine Qualifikation
     - name: 'twitter:image'
-      value: images/person_main.jpg
+      value: images/profil_mini.jpg
       relativeUrl: true
 layout: project
 thumb_image: images/person_main.jpg
