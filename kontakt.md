@@ -33,7 +33,7 @@ sections:
           - Newsletter
       - input_type: textarea
         name: message
-        label: Nachricht
+        label: Ihre Nachricht
         default_value: Deine Nachricht
       - input_type: checkbox
         name: consent
