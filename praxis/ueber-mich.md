@@ -53,7 +53,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Kursplan
+      value: Über mich
       keyName: property
     - name: 'og:description'
       value: Übersicht über meine aktuellen Kurse
