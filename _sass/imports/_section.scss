@@ -164,7 +164,7 @@
   strong > mark {
       letter-spacing: .5px;
   }
-  strong > mark ~ mark:n {
+  strong > mark ~ mark:nth-child(1) {
       letter-spacing: none;
   }
 }
