@@ -20,7 +20,9 @@
     font-style: normal;
     margin-left: 1rem;
     margin-bottom: 1rem;
-    &:nth-child(1) 
+    &:nth-child(1) {
+        font-weight: bold;
+    }
 
   }
 
