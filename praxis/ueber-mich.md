@@ -46,7 +46,7 @@ sections:
   - type: image_section
     width: wide
 seo:
-  title: Kursplan
+  title: Über mich
   description: Übersicht über meine aktuellen Kurse
   extra:
     - name: 'og:type'
