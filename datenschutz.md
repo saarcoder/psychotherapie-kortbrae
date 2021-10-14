@@ -81,7 +81,7 @@ Die Daten werden ebenfalls in den Logfiles des Systems gespeichert. Eine Speiche
 Die Daten werden ausschließlich zur Bereitstellung des Internetangebots genutzt. Mit ihrer Einwilligung werden Ihre Daten nur zur Entgegennahme Ihrer Mitteilung genutzt. Es unterliegt ihrer freien Entscheidung, ob sie diese Daten angeben.
 
 Die Daten werden nicht genutzt…
-Zur Profilbildung, zu Werbezwecken und werden nicht an Dritte weitergegeben.
+Zur Profilbildung, zu Werbezwecken und werden nicht an Dritte weitergegeben.<br><br>
 
 
 
