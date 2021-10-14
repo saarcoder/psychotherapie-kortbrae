@@ -4,8 +4,7 @@ subtitle: ''
 seo:
   title: Kostenübernahme
   description: >-
-    Datenschutzerklärung nach der DSGVO für die Praxishomepage
-    www.psychotherapie-kortbrae.de
+    Erläuterung der Kostenübernahme für 
   extra:
     - name: 'og:type'
       value: website
