@@ -34,7 +34,7 @@ textarea {
   padding: 0.5em 0;
   width: 100%;
 
-  &:focus {
+  &:focus, &:hover {
     background: #e9e8e8;
     outline: 0;
   }
