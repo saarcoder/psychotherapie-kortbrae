@@ -74,7 +74,7 @@ Diese Webseite verwendet google-maps, um geographische Informationen visuell dar
 Verwendung von Cookies
 In bestimmten Fällen werden Cookies verwendet. Ruft ein Nutzer eine Webseite auf, kann ein Cookie auf dem Betriebssystem des Nutzers gespeichert werden, die beim erneuten Aufruf der Webseite eine eindeutige Identifizierung ermöglicht. Cookies enthalten allerdings keine personenbezogenen Daten und werden nach Ablauf der Sitzung automatisch gelöscht. Im Fall einer Verlinkung können Cookies von Drittanbietern zum Einsatz kommen, ohne dass wir Sie darauf ausdrücklich hinweisen können. Die gängigen Browser erlauben es, die Verarbeitung solcher Cookies festzulegen, so dass Sie das Speichern dieser Cookies in Ihrem Internetbrowser deaktivieren bzw. die Art der Verarbeitung durch Ihren Browser einstellen können. Bei der Deaktivierung ist nicht gewährleistet, dass Sie auf alle Funktionen dieser Webseite ohne Einschränkungen zugreifen können.
 
-Hinweis auf Verschlüsselung
+### Hinweis auf Verschlüsselung
 Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir dem aktuellen Stand der Technik entsprechende Verschlüsselungsverfahren (z.B. SSL) über HTTPS.
 
 ### Welche Rechte hat der Besucher der Webseite?
