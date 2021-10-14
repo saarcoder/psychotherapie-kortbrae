@@ -27,7 +27,7 @@ layout: page
 ---
 ##### Gesetzliche Krankenkassen
 
-Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
+Ambulante Psychotherapie ist eine Leistung der gesetzlichen Krankenkassen. Diese übernehmen in der Regel die Kosten, wenn eine entsprechende Indikation (Behandlungsbedürftigkeit) gegeben ist. Jeder gesetzlich Versicherte hat Anspruch auf sogenannte „probatorische“ Sitzungen. In diesen Probestunden entscheiden Sie sich, ob Sie die Therapie bei mir beginnen möchten und ich vergewissere mich, ob eine Psychotherapie für Sie angezeigt ist. Ist dies der Fall, stelle ich einen entsprechenden Antrag bei der Kasse auf Kostenübernehme. Um auszuschließen, dass eine körperliche Ursache der psychischen Beschwerden vorliegt, fordert die Krankenkasse vor Beginn der Therapie einen ärztlichen Konsiliarbericht an, welchen Sie von ihrem Hausarzt oder Psychiater ausfüllen lassen müssen. Bitte bringen Sie zum Erstgespräch bzw. zu jedem Quartalsbeginn ihre Versichertenkarte mit.
 
 <address>
 <span style="display:block; margin-bottom: -.35rem">Sabine Kortbrae</span>
