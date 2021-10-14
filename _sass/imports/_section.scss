@@ -91,8 +91,8 @@
     @media only screen and (min-width: 768px) {  
         width: calc(1152px - 2rem);
         padding: 2rem;
-        & .cell {
-            padding-left: 0;
+        & .container {
+            padding-left: .5vw;
         }
     }
   }
