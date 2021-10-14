@@ -36,6 +36,7 @@ sections:
         name: message
         label: Ihre Nachricht
         default_value: Geben Sie hier Ihre Nachricht ein
+        is_required: true
       - input_type: checkbox
         name: consent
         label: >-
