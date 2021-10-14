@@ -51,7 +51,7 @@ Es werden personenbezogene Daten nur dann erhoben und genutzt, wenn ein gesetzli
 Umfang der Datenverarbeitung
 Meine Homepage dient der Bereitstellung von Informationen über meine Praxis sowie der Möglichkeit der Kontaktaufnahme mit mir. Bei jedem Aufruf meiner Internetseite erfasst das System automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners.
 
-Folgende Daten werden hierbei erhoben:
+### Folgende Daten werden hierbei erhoben:
 
 (1) Informationen über den Browsertyp und die verwendete Version
 (2) Das Betriebssystem des Nutzers
