@@ -42,7 +42,7 @@ Wolfsgangstraße 65
 
 Telefon: 069/13 39 12 67
 
-E-Mail: <kontakt@psychotherapie-kortbrae.de>
+E-Mail: <kontakt@psychotherapie-kortbrae.de></address>
 
 Die Praxis hat keinen Datenschutzbeauftragten, da sie weniger als 10 Angestellte hat.
 
