@@ -39,23 +39,6 @@ Von Privatkassen werden die Kosten für eine ambulante Psychotherapie je nach de
 
 Selbstverständlich ist es auch möglich, die Therapiesitzungen selbst zu bezahlen. Die Kosten richten sich dabei nach der Gebührenordnung für Ärzte und Psychotherapeuten (GOP).
 
-ng des Internetangebots genutzt. Mit ihrer Einwilligung werden Ihre Daten nur zur Entgegennahme Ihrer Mitteilung genutzt. Es unterliegt ihrer freien Entscheidung, ob sie diese Daten angeben.
-
-Die Daten werden nicht genutzt…
-Zur Profilbildung, zu Werbezwecken und werden nicht an Dritte weitergegeben.<br><br>
-
-
-
-##### Verwendung von google-maps
-
-Diese Webseite verwendet google-maps, um geographische Informationen visuell darzustellen. Bei der Nutzung von google-maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Nähre Informationen über die Datenverarbeitung durch Google können Sie den Google-Datenschutzhinweisen entnehmen. Dort können Sie im Datenschutzcenter auch Ihre persönlichen Datenschutz-Einstellungen verändern.<br><br>
-
-
-
-##### Verwendung von Cookies
-
-In bestimmten Fällen werden Cookies verwendet. Ruft ein Nutzer eine Webseite auf, kann ein Cookie auf dem Betriebssystem des Nutzers gespeichert werden, die beim erneuten Aufruf der Webseite eine eindeutige Identifizierung ermöglicht. Cookies enthalten allerdings keine personenbezogenen Daten und werden nach Ablauf der Sitzung automatisch gelöscht. Im Fall einer Verlinkung können Cookies von Drittanbietern zum Einsatz kommen, ohne dass wir Sie darauf ausdrücklich hinweisen können. Die gängigen Browser erlauben es, die Verarbeitung solcher Cookies festzulegen, so dass Sie das Speichern dieser Cookies in Ihrem Internetbrowser deaktivieren bzw. die Art der Verarbeitung durch Ihren Browser einstellen können. Bei der Deaktivierung ist nicht gewährleistet, dass Sie auf alle Funktionen dieser Webseite ohne Einschränkungen zugreifen können.<br><br>
-
 
 
 ##### Hinweis auf Verschlüsselung
