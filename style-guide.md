@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Theme Style Guide
+      value: Datenschutzbestimmungen
     - name: 'twitter:description'
       value: >-
         Datenschutzerklärung nach der DSGVO für die Praxishomepage www.psychotherapie-kortbrae.de
