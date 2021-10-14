@@ -56,7 +56,7 @@ seo:
       value: Über mich
       keyName: property
     - name: 'og:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Meine Qualifikation
       keyName: property
     - name: 'og:image'
       value: images/profil_mini.jpg
