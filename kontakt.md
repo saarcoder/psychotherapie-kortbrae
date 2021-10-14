@@ -23,7 +23,7 @@ sections:
         label: E-Mail
         default_value: Ihre E-Mail-Adresse
         is_required: true
-      - input_type: select
+      - input_type: phone
         name: subject
         label: Betreff
         default_value: Bitte auswählen
