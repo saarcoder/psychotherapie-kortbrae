@@ -51,6 +51,11 @@
   .container {
       padding: 0;
   }
+
+  p {
+      word-wrap: break-word;
+  overflow-wrap: break-word;
+  }
 }
 
 @media only screen and (min-width: 601px) {
