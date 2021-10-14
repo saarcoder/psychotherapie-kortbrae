@@ -39,7 +39,7 @@
         {% endif %}
                     {% for action in site.data.config.footer.links %}
             
-            {% include action_link.html action=action %}
+        {% include action_link.html action=action %}
         {% endfor %}
         {% assign slogan_is_not_empty = site.data.config.footer.slogan | is_not_empty %}
         {% if slogan_is_not_empty %}
