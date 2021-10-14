@@ -35,7 +35,7 @@ sections:
         is_required: true
       - input_type: checkbox
         name: consent
-        label: Ich habe die <a href="/datenschutz">Datenschutzbestimmungen gelesen und erkenne sie an.
+        label: Ich habe die <a href="/datenschutz">Datenschutzbestimmungen</a> gelesen und erkenne sie an.
         is_required: true
     submit_label: Nachricht senden
 seo:
