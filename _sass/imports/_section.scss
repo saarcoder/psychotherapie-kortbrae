@@ -161,7 +161,7 @@
       }
     }
   }
-  mark:first-child {
+  mark:first-of-type:first-child {
       letter-spacing: .5px;
   }
 }
