@@ -39,7 +39,7 @@ Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationa
 <span style="display:block; margin-bottom: -.35rem">Wolfsgangstraße 65</span>
 <span style="display:block; margin-bottom: -.35rem">60322 Frankfurt</span>
 <span style="display:block; margin-bottom: -.35rem">Sabine Kortbrae</span>
-Telefon: 069/13 39 12 67
+
 E-Mail: <a href="mailto:kontakt@psychotherapie-kortbrae.de">kontakt@psychotherapie-kortbrae.de</a><br>
 </address>
 
