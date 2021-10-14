@@ -59,7 +59,7 @@ seo:
       value: Übersicht über meine aktuellen Kurse
       keyName: property
     - name: 'og:image'
-      value: images/01.jpg
+      value: images/profil_klein.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
