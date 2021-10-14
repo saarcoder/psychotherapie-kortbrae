@@ -4,7 +4,7 @@ subtitle: ''
 seo:
   title: Kostenübernahme
   description: >-
-    Erläuterung der Kostenübernahme für 
+    Erläuterung der Kostenübernahme für Selbstzahler, gesetzliche Krankenkassen, private Krankenkassen und Beihilfe
   extra:
     - name: 'og:type'
       value: website
