@@ -16,8 +16,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Datenschutzerklärung nach der DSGVO für die Praxishomepage www.psychotherapie-kortbrae.de
       keyName: property
     - name: 'twitter:card'
       value: summary
