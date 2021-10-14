@@ -26,7 +26,7 @@ sections:
       - input_type: phone
         name: phone
         label: Telefonnummer
-        default_value: Bitte auswählen
+        default_value: Ihre telefonnummer
         options:
           - Ayurveda-Beratung
           - Kursanmeldung
