@@ -24,8 +24,7 @@ seo:
       value: Theme Style Guide
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Datenschutzerklärung nach der DSGVO für die Praxishomepage www.psychotherapie-kortbrae.de
 layout: page
 ---
 
