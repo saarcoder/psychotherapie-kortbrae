@@ -9,7 +9,7 @@ sections:
     content: >
       Wenn Sie eine Frage haben oder einen Termin für ein Erstgespräch
       vereinbaren möchten, senden Sie mir eine Nachricht.
-    add-text: "Bitte benutzen Sie für den E-Mail-Kontakt meine u.a. Kontaktadresse!\n\n#### Psychotherapeutische Praxis Sabine Kortbrae\n\nWolfsgangstraße 65\n\n60322 Frankfurt\n\nTelefon: 069 – 13 39 12 67\n\nE-Mail: <kontakt@psychotherapie-kortbrae.de>\n\nEingetragen im Psychotherapeutenregister der Kassenärztlichen Vereinigung Hessen, Nr. 89142\n\n#### Anfahrt mit öffentlichen Verkehrsmitteln\n\n**<mark>S-Bahn</mark>**\_ Hauptwache\n\n<mark>**U-Bahn**</mark>**\_ Grüneburgweg\n\n#### Anfahrt mit dem Auto\n\nParkhaus Turmcenter 15 Min. Fußweg\n"
+    add-text: "Bitte benutzen Sie für den E-Mail-Kontakt meine u.a. Kontaktadresse!\n\n#### Psychotherapeutische Praxis Sabine Kortbrae\n\nWolfsgangstraße 65\n\n60322 Frankfurt\n\nTelefon: 069 – 13 39 12 67\n\nE-Mail: <kontakt@psychotherapie-kortbrae.de>\n\nEingetragen im Psychotherapeutenregister der Kassenärztlichen Vereinigung Hessen, Nr. 89142\n\n#### Anfahrt mit öffentlichen Verkehrsmitteln\n\n**<mark>S-Bahn</mark>**\_ Hauptwache\n\n<mark>**U-Bahn</mark>**\_ Grüneburgweg\n\n#### Anfahrt mit dem Auto\n\nParkhaus Turmcenter 15 Min. Fußweg\n"
     form_id: contactForm
     form_action: /thank-you
     form_fields:
