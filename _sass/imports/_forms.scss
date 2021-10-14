@@ -6,6 +6,9 @@ label {
   & a {
     color: $color-tertiary;
   }
+    & a {
+    color: $color-tertiary;
+  }
   .font-fraunces & {
     font-weight: 500;
   }
