@@ -18,10 +18,6 @@
             <a href="/{{ site.data.config.footer.link }}">{{ site.data.config.footer.link }}</a>
             </div>
 
-            {% for action in site.data.config.footer.links %}
-            
-            {% include action_link.html action=action %}
-            {% endfor %}
             {% assign email_is_not_empty = site.data.config.footer.email | is_not_empty %}
             {% if email_is_not_empty %}
             <div class="site-footer__email">
