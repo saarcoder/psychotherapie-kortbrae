@@ -47,7 +47,7 @@ sections:
     width: wide
 seo:
   title: Über mich
-  description: Übersicht über meine aktuellen Kurse
+  description: Meine Qualifikation
   extra:
     - name: 'og:type'
       value: website
