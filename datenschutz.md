@@ -40,7 +40,7 @@ Wolfsgangstraße 65<br>
 60322 Frankfurt<br>
 Telefon: 069/13 39 12 67<br>
 E-Mail: <a href="mailto:kontakt@psychotherapie-kortbrae.de">kontakt@psychotherapie-kortbrae.de</a><br>
-</address><br>
+</address>
 
 Die Praxis hat keinen Datenschutzbeauftragten, da sie weniger als 10 Angestellte hat.
 
