@@ -48,4 +48,4 @@ Dipl.-Psych. Sabine Kortbrae bemüht sich, auf dieser Website vollständige und 
 **Urheberrecht:**
 Die Urheber- und Nutzungsrechte der veröffentlichen Inhalte sind geschützt und verbleiben allein beim Urheber. Eine Verwendung oder Vervielfältigung des Text- und Bildmaterials dieser Website ist nicht gestattet.
 
-**Hinweis:** Bitte klicken Sie [hier](https://psychotherapie-kortbrae.de/Datenschutz) für Informationen zum Datenschutz.
+**Hinweis:** Bitte klicken Sie [hier](/datenschutz) für Informationen zum Datenschutz.
