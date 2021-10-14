@@ -31,6 +31,7 @@ sections:
           - Ayurveda-Beratung
           - Kursanmeldung
           - Newsletter
+        is_required: true
       - input_type: textarea
         name: message
         label: Ihre Nachricht
