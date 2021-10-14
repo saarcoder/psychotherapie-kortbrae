@@ -57,7 +57,9 @@ Meine Homepage dient der Bereitstellung von Informationen über meine Praxis sow
 ### Folgende Daten werden hierbei erhoben:
 
 (1) Informationen über den Browsertyp und die verwendete Version
+
 (2) Das Betriebssystem des Nutzers
+
 (3) Den Internet-Service-Provider des Nutzers
 (4) Die IP-Adresse des Nutzers
 (5) Datum und Uhrzeit des Zugriffs
