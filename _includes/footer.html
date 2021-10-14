@@ -26,7 +26,7 @@
             {% endif %}
         </div>
 
-            {% for action in site.data.config.footer.links %}
+        {% for action in site.data.config.footer.links %}
             
         {% include action_link.html action=action %}
         {% endfor %}
