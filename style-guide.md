@@ -68,7 +68,7 @@ Die Daten werden ausschließlich zur Bereitstellung des Internetangebots genutzt
 Die Daten werden nicht genutzt…
 Zur Profilbildung, zu Werbezwecken und werden nicht an Dritte weitergegeben.
 
-Verwendung von google-maps
+### Verwendung von google-maps
 Diese Webseite verwendet google-maps, um geographische Informationen visuell darzustellen. Bei der Nutzung von google-maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Nähre Informationen über die Datenverarbeitung durch Google können Sie den Google-Datenschutzhinweisen entnehmen. Dort können Sie im Datenschutzcenter auch Ihre persönlichen Datenschutz-Einstellungen verändern.
 
 ### Verwendung von Cookies
