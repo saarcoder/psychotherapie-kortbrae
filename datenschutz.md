@@ -35,7 +35,7 @@ layout: page
 Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
 
 <address>
-Sabine Kortbrae<br>
+Sabine Kortbrae
 Wolfsgangstraße 65<br>
 60322 Frankfurt<br>
 Telefon: 069/13 39 12 67<br>
