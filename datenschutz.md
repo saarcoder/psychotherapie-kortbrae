@@ -42,7 +42,7 @@ Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationa
 E-Mail: <a href="mailto:kontakt@psychotherapie-kortbrae.de">kontakt@psychotherapie-kortbrae.de</a><br>
 </address>
 
-Die Praxis hat keinen Datenschutzbeauftragten, da sie weniger als 10 Angestellte hat.<br>
+Die Praxis hat keinen Datenschutzbeauftragten, da sie weniger als 10 Angestellte hat.<br><br>
 
 
 
