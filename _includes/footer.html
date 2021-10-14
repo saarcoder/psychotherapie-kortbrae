@@ -37,7 +37,7 @@
         {% if link_is_not_empty %}
 
         {% endif %}
-                    {% for action in site.data.config.footer.links %}
+        {% for action in site.data.config.footer.links %}
             
         {% include action_link.html action=action %}
         {% endfor %}
