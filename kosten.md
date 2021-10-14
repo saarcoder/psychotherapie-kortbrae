@@ -37,7 +37,7 @@ Von Privatkassen werden die Kosten für eine ambulante Psychotherapie je nach de
 
 ##### Selbstzahler
 
-Meine Homepage dient der Bereitstellung von Informationen über meine Praxis sowie der Möglichkeit der Kontaktaufnahme mit mir. Bei jedem Aufruf meiner Internetseite erfasst das System automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners.<br><br>
+Selbstverständlich ist es auch möglich, die Therapiesitzungen selbst zu bezahlen. Die Kosten richten sich dabei nach der Gebührenordnung für Ärzte und Psychotherapeuten (GOP).
 
 ##### Folgende Daten werden hierbei erhoben:
 
