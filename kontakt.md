@@ -37,10 +37,7 @@ sections:
         name: consent
         label: Ich habe die Datenschutzbestimmungen gelesen und erkenne sie an.
         is_required: true
-    submit_label: Nachricht senden
-seo:
-  title: Kontakt
-  description: Dies ist die Kontaktseite
+    submit_label: Nachricht senden\n
   extra:
     - name: 'og:type'
       value: website
