@@ -30,7 +30,7 @@ seo:
 layout: page
 ---
 
-Name und Anschrift des Verantwortlichen
+### Name und Anschrift des Verantwortlichen
 Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
 
 Sabine Kortbrae
