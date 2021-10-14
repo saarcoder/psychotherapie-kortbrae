@@ -99,7 +99,7 @@ In bestimmten Fällen werden Cookies verwendet. Ruft ein Nutzer eine Webseite au
 
 ##### Hinweis auf Verschlüsselung
 
-Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir dem aktuellen Stand der Technik entsprechende Verschlüsselungsverfahren (z.B. SSL) über HTTPS.
+Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir dem aktuellen Stand der Technik entsprechende Verschlüsselungsverfahren (z.B. SSL) über HTTPS.<br><br>
 
 
 
