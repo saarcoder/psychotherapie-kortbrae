@@ -2,7 +2,7 @@
 title: Kostenübernahme
 subtitle: ''
 seo:
-  title: Datenschutzbestimmungen
+  title: Kostenübernahme
   description: >-
     Datenschutzerklärung nach der DSGVO für die Praxishomepage
     www.psychotherapie-kortbrae.de
@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Datenschutzbestimmungen
+      value: Kostenübernahme
       keyName: property
     - name: 'og:description'
       value: >-
@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Datenschutzbestimmungen
+      value: Kostenübernahme
     - name: 'twitter:description'
       value: >-
         Datenschutzerklärung nach der DSGVO für die Praxishomepage
