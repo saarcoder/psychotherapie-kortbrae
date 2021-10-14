@@ -6,7 +6,7 @@ subtitle: >-
   and styles for your content.
 seo:
   title: Datenschutzbestimmungen
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Datenschutzerklärung nach der DSGVO für die Praxishomepage www.psychotherapie-kortbrae.de
   extra:
     - name: 'og:type'
       value: website
