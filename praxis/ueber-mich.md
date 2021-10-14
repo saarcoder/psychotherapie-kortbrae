@@ -67,7 +67,7 @@ seo:
     - name: 'twitter:title'
       value: Über mich
     - name: 'twitter:description'
-      value: Übersicht über meine aktuellen Kurse
+      value: Meine Qualifikation
     - name: 'twitter:image'
       value: images/profil_mini.jpg
       relativeUrl: true
