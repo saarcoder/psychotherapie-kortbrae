@@ -40,3 +40,8 @@ Zuständige Kammer: Landespsychotherapeutenkammer Hessen
 Kassenärztliche Vereinigung: Kassenärztliche Vereinigung Hessen
 
 Vertragsärztliche Tätigkeiten als Psychologische Psychotherapeutin unterliegen gemäß § 4 Nr. 14 Satz 1 UStG nicht der Umsatzsteuer.
+
+Haftungshinweis:
+
+Dipl.-Psych. Sabine Kortbrae bemüht sich, auf dieser Website vollständige und richtige Informationen zur Verfügung zu stellen. Es wird jedoch keine Garantie oder Haftung für die Richtigkeit, Aktualität sowie Vollständigkeit der bereitgestellten Informationen übernommen. Änderungen bleiben vorbehalten. Ich übernehme keine Haftung für die Inhalte externer Links. Für deren Inhalte und die jeweiligen Datenschutzbestimmungen sind die Betreiber dieser Sites zuständig.
+
