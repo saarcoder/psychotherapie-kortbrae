@@ -23,3 +23,4 @@ E-Mail: kontakt@psychotherapie-kortbrae.de
 
 Verantwortlich für den Inhalt: Dipl.-Psych. Sabine Kortbrae (Adresse wie oben)
 
+Dipl.-Psych. Sabine Kortbrae wurde die Approbation 2011 in Hessen, Deutschland im Sinne des § 2 des Psychotherapeutengesetzes verliehen. Sie führt die gesetzliche Berufsbezeichnung Psychologische Psychotherapeutin und ist Mitglied der Landespsychotherapeutenkammer Hessen.
