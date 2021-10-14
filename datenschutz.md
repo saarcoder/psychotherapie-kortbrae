@@ -34,7 +34,7 @@ layout: page
 
 Die Verantwortliche im Sinne der Datenschutz-Grundverordnung und anderer nationaler Datenschutzgesetze der Mitgliedsstaaten sowie sonstiger datenschutzrechtlicher Bestimmungen ist:
 
-<address>Sabine Kortbrae
+<address>Sabine Kortbrae\
 
 Wolfsgangstraße 65
 
