@@ -69,7 +69,7 @@ seo:
     - name: 'twitter:description'
       value: Übersicht über meine aktuellen Kurse
     - name: 'twitter:image'
-      value: images/profil_klein.jpg
+      value: images/profil_mini.jpg
       relativeUrl: true
 layout: project
 thumb_image: images/profil_mini.jpg
