@@ -48,7 +48,7 @@ Die Praxis hat keinen Datenschutzbeauftragten, da sie weniger als 10 Angestellte
 Welche personenbezogenen Daten werden erhoben?
 Es werden personenbezogene Daten nur dann erhoben und genutzt, wenn ein gesetzlicher Grund für die Erhebung und Nutzung vorliegt. Wir erheben und verwenden personenbezogene Daten nur, soweit dies zur Bereitstellung einer funktionsfähigen Webseite sowie meiner Inhalte und Leistungen erforderlich ist. Als personenbezogene Daten gelten sämtliche Informationen, die dazu dienen, einen Rückschluss auf Ihre Person zuzulassen (z.B. Vor- und Nachname, E-Mail-Adresse, Telefonnummer). Aufgrund Ihrer freiwilligen Eingaben auf der Webseite erheben wir Daten auf dem Kontaktformular (Vor- und Nachname, Telefonnummer und Ihre E-Mail-Adresse). Die von Ihnen eingegebenen Daten dienen alleine der Kontaktaufnahme und werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Im Online-Formular weisen wir Sie nochmals auf den Zweck der Datenerhebung und auf diese Datenschutzerklärung hin. Hierbei weisen wir darauf hin, dass bei der Datenübertragung im Internet Sicherheitslücken bestehen können. Sollten Sie den Kommunikationsweg dennoch nutzen, erfolgt die Nutzung des Kontaktformulars durch Ihre freiwillig erteilte Einwilligung (Art. 6 Absatz 1 Satz 1 lit a. DSGVO).
 
-Umfang der Datenverarbeitung
+### Umfang der Datenverarbeitung
 Meine Homepage dient der Bereitstellung von Informationen über meine Praxis sowie der Möglichkeit der Kontaktaufnahme mit mir. Bei jedem Aufruf meiner Internetseite erfasst das System automatisiert Daten und Informationen vom Computersystem des aufrufenden Rechners.
 
 ### Folgende Daten werden hierbei erhoben:
