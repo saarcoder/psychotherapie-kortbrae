@@ -23,7 +23,7 @@ sections:
         label: E-Mail
         default_value: Ihre E-Mail-Adresse
         is_required: true
-      - input_type: phone
+      - input_type: tel
         name: phone
         label: Telefonnummer
         default_value: Ihre Telefonnummer
