@@ -17,7 +17,11 @@
     margin-top: 0.5em;
   }
   
-  &__body .text-block 
+  &__body .text-block address {
+          font-style: normal;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+  }
 
   &__image {
     margin-bottom: 2em;
