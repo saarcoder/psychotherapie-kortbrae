@@ -29,6 +29,7 @@ layout: page
 
 Ambulante Psychotherapie ist eine Leistung der gesetzlichen Krankenkassen. Diese übernehmen in der Regel die Kosten, wenn eine entsprechende Indikation (Behandlungsbedürftigkeit) gegeben ist. Jeder gesetzlich Versicherte hat Anspruch auf sogenannte „probatorische“ Sitzungen. In diesen Probestunden entscheiden Sie sich, ob Sie die Therapie bei mir beginnen möchten und ich vergewissere mich, ob eine Psychotherapie für Sie angezeigt ist. Ist dies der Fall, stelle ich einen entsprechenden Antrag bei der Kasse auf Kostenübernehme. Um auszuschließen, dass eine körperliche Ursache der psychischen Beschwerden vorliegt, fordert die Krankenkasse vor Beginn der Therapie einen ärztlichen Konsiliarbericht an, welchen Sie von ihrem Hausarzt oder Psychiater ausfüllen lassen müssen. Bitte bringen Sie zum Erstgespräch bzw. zu jedem Quartalsbeginn ihre Versichertenkarte mit.
 
+
 ##### Private Krankenkassen und Beihilfe
 
 Von Privatkassen werden die Kosten für eine ambulante Psychotherapie je nach den individuellen Versicherungsbedingungen übernommen. Klären Sie deshalb bitte im Vorfeld mit Ihrer Krankenkasse ab, in welchem Umfang eine Kostenübernahme möglich ist. Sind Sie Beihilfeberechtigt werden Ihnen die Therapiekosten gemäß der Gebührenordnung für Ärzte und Psychotherapeuten (GOP) in Rechnung gestellt und Sie können diese bei Ihrer Beihilfestelle einreichen.
