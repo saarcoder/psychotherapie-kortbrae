@@ -54,7 +54,7 @@ seo:
         kognitive Verhaltenstherapie, Selbstmanagement, Coaching, Burn-out,
         Partnerschaftstherapie
     - name: 'twitter:image'
-      value: images/lotos.png
+      value: images/Home_schmal165.jpg
       relativeUrl: true
 layout: advanced
 ---
