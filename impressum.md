@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:title'
       value: Kontakt
     - name: 'twitter:description'
-      value: Dies ist die Kontaktseite
+      value: Verantwortlich für den Inhalt ist Dipl.-Psych. Sabine Kortbrae 
 layout: page
 ---
 Dipl.-Psych. Sabine Kortbrae
