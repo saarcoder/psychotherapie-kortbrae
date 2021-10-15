@@ -1,7 +1,7 @@
 ---
 title: Impressum
 seo:
-  title: Kontakt
+  title: Impressum
   description: Dies ist die Kontaktseite
   extra:
     - name: 'og:type'
