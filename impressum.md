@@ -1,7 +1,6 @@
 ---
 title: Impressum
 subtitle: 'Dies ist die Kontaktseite'
-image_alt: lorem-ipsum
 seo:
   title: Kontakt
   description: Dies ist die Kontaktseite
