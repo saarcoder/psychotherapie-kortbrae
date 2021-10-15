@@ -42,7 +42,7 @@ seo:
         Partnerschaftstherapie
       keyName: property
     - name: 'og:image'
-      value: images/Home_schmal165.jpg
+      value: images/therapie-und-coaching1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
