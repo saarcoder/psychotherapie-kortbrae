@@ -2,7 +2,7 @@
 title: Impressum
 seo:
   title: Impressum
-  description: Verantwortlich für den Inhalt: Dipl.-Psych. Sabine Kortbrae 
+  description: Verantwortlich für den Inhalt ist Dipl.-Psych. Sabine Kortbrae 
   extra:
     - name: 'og:type'
       value: website
