@@ -6,7 +6,25 @@ seo:
   title: Impressum
   description: ''
   robots: []
-  extra: []
+seo:
+  title: Kontakt
+  description: Dies ist die Kontaktseite
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: Kontakt
+      keyName: property
+    - name: 'og:description'
+      value: Dies ist die Kontaktseite
+      keyName: property
+    - name: 'twitter:card'
+      value: summary
+    - name: 'twitter:title'
+      value: Kontakt
+    - name: 'twitter:description'
+      value: Dies ist die Kontaktseite
 layout: page
 ---
 Dipl.-Psych. Sabine Kortbrae
