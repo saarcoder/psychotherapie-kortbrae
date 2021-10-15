@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Kontakt
+      value: Impressum
       keyName: property
     - name: 'og:description'
       value: Verantwortlich für den Inhalt ist Dipl.-Psych. Sabine Kortbrae 
@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Kontakt
+      value: Impressum
     - name: 'twitter:description'
       value: Verantwortlich für den Inhalt ist Dipl.-Psych. Sabine Kortbrae 
 layout: page
