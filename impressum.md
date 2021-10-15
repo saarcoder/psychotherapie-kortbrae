@@ -1,6 +1,5 @@
 ---
 title: Impressum
-subtitle: 'Dies ist die Kontaktseite'
 seo:
   title: Kontakt
   description: Dies ist die Kontaktseite
