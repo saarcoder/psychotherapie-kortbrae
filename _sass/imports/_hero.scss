@@ -64,7 +64,9 @@
       font-size: 1.2em;
     }
   }
-  h1.
+  h1.hero__title:first-child {
+          margin-top: 8px;
+  }
 
   .hero .container {
       padding: 0;
