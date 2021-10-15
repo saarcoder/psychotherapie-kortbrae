@@ -73,5 +73,6 @@
             }
         ]
     },
-    "domain": "https://diligent-artichoke-f7734.netlify.app"
+    "domain": "https://diligent-artichoke-f7734.netlify.app",
+    "favicon": "images/favicon.ico"
 }
