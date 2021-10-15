@@ -104,4 +104,10 @@
     .section--portfolio {
         margin-bottom: 0;
     }
+
+          grid-template-columns: 1fr .5fr 1fr;
+      grid-template-areas: 
+        "left left right"
+        "centerLeft centerRight centerRight"
+        "bottom bottom bottom";
 }
