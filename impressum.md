@@ -21,7 +21,6 @@ seo:
       value: Kontakt
     - name: 'twitter:description'
       value: Dies ist die Kontaktseite
-  extra: []
 layout: page
 ---
 Dipl.-Psych. Sabine Kortbrae
