@@ -108,6 +108,7 @@
       .subgrid {
         grid-template-columns: 1fr;
         grid-template-areas: 
+            
             "left left "
             "centerLeft centerRight centerRight"
             "bottom bottom bottom";
