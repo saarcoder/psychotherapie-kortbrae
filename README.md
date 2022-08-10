@@ -1,6 +1,11 @@
 # ✨ Psychotherapie & Coaching Sabine Kortbrae ✨
 
-<img src="/images/praxis-sabine-kortbrae_1024x874.png" width="600">
+<<<<<<< HEAD
+<img src="/images/praxis-sabine-kortbrae_1024x876.png" width="600">
+=======
+<img src="/images/praxis-sabine-kortbrae_1024x876.png" width="600">
+
+> > > > > > > 2446dde269b8292d810457c4e94d194b26f37445
 
 [Jekyll](https://jekyllrb.com)-Seite mit Git als [CMS](https://en.wikipedia.org/wiki/Content_management_system). Seiten-Editor: [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes). Build-Zeit: unter einer Minute.
 
@@ -70,5 +75,3 @@ Hier ein paar Ressourcen zum Start:
 - 📚 &nbsp; [Stackbit Dokumentation](https://stackbit.link/project-readme-documentation)
 
 Wenn Du Hilfe benötigst, schau am besten zuerst auf unserer [Stackbit Support-Seite](https://stackbit.link/project-readme-support) nach.
-
-
